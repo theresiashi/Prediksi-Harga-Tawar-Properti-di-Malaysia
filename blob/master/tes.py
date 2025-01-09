@@ -24,7 +24,8 @@ data = load_data()
 
 # Display dataset preview
 if st.checkbox("Tampilkan dataset", False):
-    st.write(data.head())
+    num_rows = st.slider("Berapa banyak baris yang ingin ditampilkan?", min_value=5, max_value=len(data), value=10)
+    st.write(data.head(num_rows))
 
 # Define inputs
 st.sidebar.header("Input Parameter")
