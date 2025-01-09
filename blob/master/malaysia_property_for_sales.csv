@@ -1,0 +1,1251 @@
+location,list_price,unit_price,number_bedroom,number_bathroom,area,type
+"Johor Bahru, Johor","RM 1,680,000","(RM 5,234 / m2)",4,4,321 m2,House
+"Johor Bahru, Johor","RM 1,750,000","(RM 5,385 / m2)",5,5,325 m2,House
+"Johor Bahru, Johor","RM 772,000","(RM 3,462 / m2)",4,4,223 m2,Townhouse
+"Johor Bahru, Johor","RM 768,000",(RM 310 / m2),4,5,"2,475 m2",Townhouse
+"Johor Bahru, Johor","RM 1,188,000",(RM 419 / m2),4,5,"2,833 m2",Villa
+"Johor Bahru, Johor","RM 450,000","(RM 4,436 / m2)",4,3,101.45 m2,Condo
+"Johor Bahru, Johor","RM 2,600,000",(RM 566 / m2),5,5,"4,590 m2",Villa
+"Johor Bahru, Johor","RM 3,500,000",(RM 850 / m2),6,6,"4,120 m2",Villa
+"Kinta, Perak","RM 450,000",(RM 327 / m2),3,3,"1,377 m2",Condo
+"Kuala Kangsar, Perak","RM 157,000",,3,2,"1,400 m2",House
+Johor,"RM 620,000",,3,2,163.5 m2,House
+"Johor Bahru, Johor","RM 771,000","(RM 3,352 / m2)",4,4,230 m2,Townhouse
+"Kinta, Perak","RM 398,000",(RM 328 / m2),3,2,"1,213 m2",Condo
+"Johor Bahru, Johor","RM 830,000","(RM 2,795 / m2)",5,5,297 m2,House
+"Seberang Perai Utara, Pulau Pinang","RM 330,000","(RM 3,700 / m2)",3,2,89.18 m2,House
+"Johor Bahru, Johor","RM 8,800,000","(RM 12,500 / m2)",5,5,704 m2,Villa
+"Kinta, Perak","RM 235,000",(RM 352 / m2),2,2,667 m2,Condo
+"Kinta, Perak","RM 800,000",(RM 250 / m2),4,4,"3,200 m2",House
+"Kinta, Perak","RM 450,000",(RM 273 / m2),4,3,"1,650 m2",House
+"Kinta, Perak","RM 338,000",(RM 282 / m2),4,3,"1,200 m2",House
+"Johor Bahru, Johor","RM 2,600,000",(RM 426 / m2),38,38,"6,100 m2",Commercial
+"Kinta, Perak","RM 580,000",(RM 330 / m2),5,4,"1,760 m2",House
+"Kinta, Perak","RM 193,000",(RM 218 / m2),3,2,884 m2,Condo
+"Kinta, Perak","RM 338,000",(RM 135 / m2),4,2,"2,508 m2",House
+"Kinta, Perak","RM 378,000",(RM 298 / m2),4,3,"1,270 m2",House
+"Kinta, Perak","RM 450,000",(RM 321 / m2),4,3,"1,400 m2",House
+"Kinta, Perak","RM 368,000",(RM 341 / m2),4,2,"1,080 m2",House
+"Kinta, Perak","RM 152,000",(RM 169 / m2),4,2,899 m2,Apartment
+"Kinta, Perak","RM 389,000",(RM 259 / m2),4,4,"1,500 m2",House
+"Kinta, Perak","RM 258,000",(RM 215 / m2),3,2,"1,200 m2",House
+"Kinta, Perak","RM 498,000",(RM 162 / m2),4,4,"3,080 m2",House
+"Kinta, Perak","RM 350,000",(RM 227 / m2),3,2,"1,540 m2",House
+"Kinta, Perak","RM 268,000",(RM 173 / m2),3,2,"1,550 m2",House
+"Kinta, Perak","RM 420,000",(RM 300 / m2),4,3,"1,400 m2",House
+"Kinta, Perak","RM 278,000",(RM 206 / m2),3,2,"1,350 m2",House
+"Kinta, Perak","RM 220,000",(RM 229 / m2),3,2,960 m2,House
+"Kinta, Perak","RM 750,000",(RM 357 / m2),6,5,"2,100 m2",House
+"Johor Bahru, Johor","RM 488,000","(RM 2,789 / m2)",4,,175 m2,House
+"Kinta, Perak","RM 243,000",(RM 203 / m2),3,1,"1,200 m2",House
+"Kinta, Perak","RM 280,000",(RM 259 / m2),3,2,"1,080 m2",House
+"Kinta, Perak","RM 180,000",(RM 212 / m2),3,2,850 m2,Apartment
+"Johor Bahru, Johor","RM 2,500,000",,5,5,,Villa
+"Kinta, Perak","RM 420,000",(RM 382 / m2),4,3,"1,100 m2",House
+"Kinta, Perak","RM 480,000",(RM 310 / m2),4,3,"1,550 m2",House
+"Johor Bahru, Johor","RM 348,000","(RM 3,480 / m2)",3,,100 m2,Apartment
+"Johor Bahru, Johor","RM 898,000",,4,4,,House
+"Kinta, Perak","RM 380,000",(RM 297 / m2),4,3,"1,280 m2",House
+"Kuala Lumpur, Kuala Lumpur","RM 478,000",,2,1,,Condo
+"Johor Bahru, Johor","RM 580,000","(RM 3,766 / m2)",5,,154 m2,House
+"Kinta, Perak","RM 600,000",(RM 286 / m2),6,4,"2,100 m2",House
+"Johor Bahru, Johor","RM 580,000","(RM 3,222 / m2)",5,,180 m2,House
+"Johor Bahru, Johor","RM 1,280,000",(RM 224 / m2),,8,"5,720 m2",Commercial
+"Sepang, Selangor","RM 197,000",,2,1,,Condo
+"Sepang, Selangor","RM 225,000",,2,2,,Condo
+"Sepang, Selangor","RM 225,000",,2,2,,Condo
+"Putrajaya, Putrajaya","RM 400,000",,3,2,,Condo
+"Petaling, Selangor","RM 592,200",,3,3,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 430,000",,3,2,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 430,000",,3,2,,Condo
+"Putrajaya, Putrajaya","RM 592,200",,3,2,,Condo
+"Sepang, Selangor","RM 230,000",,2,1,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,100,000",,4,3,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,000,000",,4,3,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,100,000",,4,3,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,000,000",,4,3,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 592,200",,3,2,,Condo
+"Johor Bahru, Johor","RM 768,000",,4,4,,House
+"Kuala Lumpur, Kuala Lumpur","RM 1,600,000",,2,2,,Hotel / Resort
+"Johor Bahru, Johor","RM 1,688,000","(RM 5,235 / m2)",,,322.47 m2,Commercial
+"Sepang, Selangor","RM 250,000",,2,1,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,600,000",,2,2,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,000,000",,4,3,,Condo
+"Kuala Langat, Selangor","RM 450,000",,4,3,,House
+"Kuala Langat, Selangor","RM 470,000",,4,3,,House
+"Kuala Langat, Selangor","RM 470,000",,4,3,,House
+"Kuala Langat, Selangor","RM 450,000",,4,3,,House
+"Kinta, Perak","RM 288,000",(RM 262 / m2),,1,"1,100 m2",Commercial
+Johor,"RM 360,000",,3,2,,House
+"Johor Bahru, Johor","RM 3,113,550","(RM 5,030 / m2)",,,619 m2,Commercial
+"Johor Bahru, Johor","RM 1,688,000","(RM 5,235 / m2)",,,322.47 m2,Commercial
+"Pontian, Johor","RM 8,811,756",,,,"45,480 m2",
+"Kinta, Perak","RM 218,800","(RM 2,145 / m2)",4,2,102 m2,House
+"Johor Bahru, Johor","RM 538,000",,3,2,130 m2,House
+"Johor Bahru, Johor","RM 1,280,000",(RM 512 / m2),6,,"2,500 m2",House
+"Johor Bahru, Johor","RM 568,000","(RM 4,369 / m2)",3,,130 m2,House
+Johor,"RM 650,000","(RM 4,221 / m2)",5,,154 m2,House
+"Sepang, Selangor","RM 250,000",,,,,Condo
+"Johor Bahru, Johor","RM 1,400,000",,4,3,"3,116 m2",House
+"Johor Bahru, Johor","RM 1,400,000","(RM 5,185 / m2)",5,4,270 m2,House
+"Johor Bahru, Johor","RM 1,400,000","(RM 5,185 / m2)",5,4,270 m2,House
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Johor Bahru, Johor","RM 1,050,000","(RM 4,468 / m2)",5,3,235 m2,House
+"Johor Bahru, Johor","RM 1,050,000","(RM 4,468 / m2)",5,3,235 m2,House
+"Johor Bahru, Johor","RM 738,000","(RM 4,011 / m2)",4,3,184 m2,House
+"Johor Bahru, Johor","RM 1,250,000","(RM 3,888 / m2)",5,6,321.5 m2,House
+"Johor Bahru, Johor","RM 690,000","(RM 2,840 / m2)",4,5,242.93 m2,Townhouse
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Johor Bahru, Johor","RM 1,200,000","(RM 3,226 / m2)",5,4,372 m2,House
+"Johor Bahru, Johor","RM 697,000","(RM 22,733 / m2)",1,1,30.66 m2,Serviced Apartment
+"Johor Bahru, Johor","RM 995,000","(RM 5,378 / m2)",4,3,185 m2,House
+"Johor Bahru, Johor","RM 995,000","(RM 5,378 / m2)",4,3,185 m2,House
+"Johor Bahru, Johor","RM 408,000",,2,,"2,300 m2",House
+"Johor Bahru, Johor","RM 348,000",(RM 328 / m2),3,,"1,060 m2",Serviced Apartment
+"Johor Bahru, Johor","RM 618,000","(RM 2,687 / m2)",4,3,230 m2,House
+"Johor Bahru, Johor","RM 508,000","(RM 4,704 / m2)",4,,108 m2,House
+"Johor Bahru, Johor","RM 410,000","(RM 3,832 / m2)",3,2,107 m2,Apartment
+"Sepang, Selangor","RM 210,000",,2,1,,Serviced Apartment
+"Muar, Johor","RM 468,000","(RM 3,271 / m2)",3,2,143.07 m2,House
+"Johor Bahru, Johor","RM 550,000",(RM 393 / m2),3,,"1,400 m2",House
+"Sepang, Selangor","RM 230,000",,2,1,,Serviced Apartment
+Johor,"RM 778,000",,5,5,"3,200 m2",House
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 380,000","(RM 3,146 / m2)",5,3,120.77 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 380,000","(RM 3,146 / m2)",5,3,120.77 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000",(RM 11 / m2),2,1,"21,367 m2",Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Ulu Langat, Selangor","RM 300,000","(RM 3,357 / m2)",3,2,89.37 m2,Condo
+"Ulu Langat, Selangor","RM 300,000","(RM 3,357 / m2)",3,2,89.37 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Sepang, Selangor","RM 300,000","(RM 3,357 / m2)",3,2,89.37 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Ulu Langat, Selangor","RM 300,000","(RM 3,357 / m2)",3,2,89.37 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Johor Bahru, Johor","RM 590,000","(RM 3,849 / m2)",4,3,153.28 m2,House
+"Johor Bahru, Johor","RM 620,000","(RM 5,167 / m2)",4,,120 m2,House
+"Sepang, Selangor","RM 225,000",,2,2,,Condo
+"Sepang, Selangor","RM 225,000",,2,2,,Condo
+"Sepang, Selangor","RM 225,000",,2,2,,Condo
+"Sepang, Selangor","RM 210,000",,1,1,,Condo
+"Sepang, Selangor","RM 210,000",,1,1,,Condo
+"Sepang, Selangor","RM 210,000",,2,1,,Condo
+"Sepang, Selangor","RM 230,000",,2,1,,Condo
+"Sepang, Selangor","RM 210,000",,2,1,,Serviced Apartment
+"Sepang, Selangor","RM 230,000",,2,1,,Condo
+"Sepang, Selangor","RM 230,000",,2,1,,Condo
+"Sepang, Selangor","RM 230,000",,1,1,,Condo
+"Sepang, Selangor","RM 230,000",,2,1,,Condo
+"Sepang, Selangor","RM 210,000",,1,1,,Condo
+"Sepang, Selangor","RM 210,000",,1,1,,Serviced Apartment
+"Sepang, Selangor","RM 250,000",,2,1,,Condo
+"Sepang, Selangor","RM 225,000",,2,1,,Condo
+"Putrajaya, Putrajaya","RM 210,000",,2,1,,Serviced Apartment
+"Putrajaya, Putrajaya","RM 210,000",,2,1,,Serviced Apartment
+"Johor Bahru, Johor","RM 280,000",(RM 269 / m2),4,2,"1,040 m2",House
+"Johor Bahru, Johor","RM 168,000","(RM 3,288 / m2)",2,1,51.09 m2,Apartment
+Johor,"RM 480,000",(RM 267 / m2),4,,"1,800 m2",House
+"Ulu Langat, Selangor","RM 197,000",,2,1,,Condo
+"Sepang, Selangor","RM 197,000",,2,1,,Condo
+"Johor Bahru, Johor","RM 550,000","(RM 3,090 / m2)",3,2,178 m2,House
+"Sepang, Selangor","RM 197,000",,2,1,,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Johor Bahru, Johor","RM 740,000","(RM 3,795 / m2)",4,4,195 m2,House
+"Johor Bahru, Johor","RM 588,000","(RM 4,630 / m2)",3,2,127 m2,House
+"Sepang, Selangor","RM 210,000",,2,1,,Condo
+"Sepang, Selangor","RM 225,000",,2,1,,Condo
+"Sepang, Selangor","RM 230,000",,2,1,,Condo
+"Sepang, Selangor","RM 210,000",,2,1,,Condo
+"Johor Bahru, Johor","RM 118,000","(RM 2,565 / m2)",2,1,46 m2,Apartment
+"Johor Bahru, Johor","RM 948,000","(RM 5,417 / m2)",4,4,175 m2,House
+"Johor Bahru, Johor","RM 950,000","(RM 3,532 / m2)",4,4,269 m2,House
+"Johor Bahru, Johor","RM 950,000","(RM 3,532 / m2)",4,4,269 m2,House
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 380,000","(RM 3,146 / m2)",4,3,120.77 m2,Condo
+"Sepang, Selangor","RM 380,000","(RM 3,146 / m2)",4,3,120.77 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 300,000","(RM 3,357 / m2)",3,2,89.37 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 380,000","(RM 3,146 / m2)",5,3,120.77 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",,,41.8 m2,Condo
+"Johor Bahru, Johor","RM 290,000","(RM 5,923 / m2)",1,1,48.96 m2,Condo
+"Johor Bahru, Johor","RM 680,000","(RM 15,111 / m2)",1,1,45 m2,Condo
+"Johor Bahru, Johor","RM 730,000","(RM 5,105 / m2)",3,2,143 m2,House
+"Sepang, Selangor","RM 380,000","(RM 3,146 / m2)",4,3,120.77 m2,Condo
+"Sepang, Selangor","RM 380,000","(RM 3,146 / m2)",4,3,120.77 m2,Condo
+"Putrajaya, Putrajaya","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Johor Bahru, Johor","RM 510,000","(RM 3,188 / m2)",3,,160 m2,House
+"Putrajaya, Putrajaya","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 380,000","(RM 3,146 / m2)",5,3,120.77 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Sepang, Selangor","RM 300,000","(RM 3,357 / m2)",3,2,89.37 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Sepang, Selangor","RM 380,000","(RM 3,146 / m2)",5,3,120.77 m2,Condo
+"Putrajaya, Putrajaya","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Putrajaya, Putrajaya","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Petaling, Selangor","RM 400,000",,3,2,,Condo
+"Johor Bahru, Johor","RM 360,000","(RM 3,186 / m2)",3,3,113 m2,Condo
+"Petaling, Selangor","RM 592,200",,3,2,,Condo
+"Sepang, Selangor","RM 340,000",,4,2,,Condo
+"Sepang, Selangor","RM 340,000",,4,2,,Condo
+"Seremban, Negeri Sembilan","RM 320,000",,4,3,,Condo
+"Sepang, Selangor","RM 340,000",,4,2,,Condo
+"Sepang, Selangor","RM 340,000",,4,2,,Condo
+"Sepang, Selangor","RM 340,000",,4,2,,Condo
+"Seremban, Negeri Sembilan","RM 320,000",,4,2,,Condo
+"Sepang, Selangor","RM 230,000",,2,1,,Condo
+"Johor Bahru, Johor","RM 380,000","(RM 3,455 / m2)",5,3,109.99 m2,Condo
+"Sepang, Selangor","RM 300,000","(RM 3,357 / m2)",3,2,89.37 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,000,000",,4,3,,Condo
+"Sepang, Selangor","RM 380,000","(RM 3,146 / m2)",4,3,120.77 m2,Condo
+"Petaling, Selangor","RM 660,000","(RM 4,583 / m2)",4,3,144 m2,House
+"Putrajaya, Putrajaya","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Petaling, Selangor","RM 430,000",,3,2,,Condo
+"Petaling, Selangor","RM 400,000",,3,2,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 420,000","(RM 5,197 / m2)",3,2,80.82 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 420,000","(RM 5,197 / m2)",3,2,80.82 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 420,000","(RM 5,197 / m2)",3,2,80.82 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 420,000","(RM 5,197 / m2)",3,2,80.82 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 420,000","(RM 5,197 / m2)",3,2,80.82 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,000,000",,4,3,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,000,000",,4,3,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,000,000",,4,3,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,000,000",,4,3,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,000,000",,4,3,,Condo
+"Johor Bahru, Johor","RM 2,450,000","(RM 5,280 / m2)",8,8,464 m2,House
+"Johor Bahru, Johor","RM 958,000",(RM 435 / m2),4,3,"2,200 m2",Villa
+"Johor Bahru, Johor","RM 345,000",(RM 308 / m2),3,,"1,120 m2",House
+"Johor Bahru, Johor","RM 468,000",,4,3,,House
+"Petaling, Selangor","RM 1,200,000","(RM 4,364 / m2)",5,5,275 m2,Condo
+"Johor Bahru, Johor","RM 688,000","(RM 3,475 / m2)",4,3,198 m2,House
+"Johor Bahru, Johor","RM 688,000","(RM 3,475 / m2)",4,3,198 m2,House
+"Johor Bahru, Johor","RM 630,000","(RM 3,481 / m2)",4,3,181 m2,House
+"Johor Bahru, Johor","RM 630,000","(RM 3,481 / m2)",4,3,181 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 430,000",,3,2,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 400,000",,3,2,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 700,000",,4,3,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,000,000",,4,3,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 700,000",,4,3,,Condo
+"Johor Bahru, Johor","RM 1,500,000","(RM 5,051 / m2)",5,5,297 m2,House
+"Johor Bahru, Johor","RM 435,000",,4,3,,House
+"Kuala Lumpur, Kuala Lumpur","RM 700,000",,4,3,,Condo
+"Johor Bahru, Johor","RM 3,250,000","(RM 5,985 / m2)",6,7,543 m2,Villa
+"Johor Bahru, Johor","RM 3,250,000","(RM 5,985 / m2)",6,6,543 m2,Villa
+"Johor Bahru, Johor","RM 1,100,000","(RM 5,920 / m2)",4,3,185.8 m2,Villa
+"Kuala Lumpur, Kuala Lumpur","RM 430,000",,3,2,,Condo
+"Sepang, Selangor","RM 225,000",,,,,Condo
+"Sepang, Selangor","RM 225,000",,,,,Condo
+"Johor Bahru, Johor","RM 738,000","(RM 3,864 / m2)",4,3,191 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 544,000",,1,1,,Condo
+"Johor Bahru, Johor","RM 928,000","(RM 3,639 / m2)",4,3,255 m2,House
+"Johor Bahru, Johor","RM 928,000","(RM 3,639 / m2)",4,3,255 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 567,000",,1,1,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 532,000",,1,1,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 685,000",,2,1,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 862,000",,2,1,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 719,000",,2,1,,Condo
+"Putrajaya, Putrajaya","RM 400,000",,3,2,,Condo
+"Putrajaya, Putrajaya","RM 592,200",,3,3,,Condo
+"Putrajaya, Putrajaya","RM 340,000",,4,2,,Condo
+"Putrajaya, Putrajaya","RM 210,000",,1,1,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 696,000",,2,1,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 575,000",,2,1,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 707,000",,2,1,,Condo
+"Johor Bahru, Johor","RM 578,000","(RM 4,446 / m2)",5,,130 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 612,000",,2,1,,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 568,000",,2,1,,Condo
+"Johor Bahru, Johor","RM 2,050,000","(RM 4,597 / m2)",,6,445.92 m2,Commercial
+"Putrajaya, Putrajaya","RM 340,000",,4,2,,Condo
+"Putrajaya, Putrajaya","RM 340,000",,4,2,,Condo
+"Putrajaya, Putrajaya","RM 210,000",,1,1,,Condo
+"Johor Bahru, Johor","RM 1,200,000","(RM 3,588 / m2)",,2,334.44 m2,Commercial
+"Johor Bahru, Johor","RM 2,750,000","(RM 1,786 / m2)",,2,"1,540 m2",Commercial
+"Johor Bahru, Johor","RM 5,600,000",,1,6,,Commercial
+"Kuala Langat, Selangor","RM 450,000",,4,3,,House
+"Kuala Lumpur, Kuala Lumpur","RM 17,139,000","(RM 16,207 / m2)",,,"1,057.48 m2",Office
+"Kuala Lumpur, Kuala Lumpur","RM 1,655,000","(RM 15,920 / m2)",,,103.96 m2,Office
+"Kuala Lumpur, Kuala Lumpur","RM 1,774,000","(RM 16,129 / m2)",,,109.99 m2,Office
+"Kuala Lumpur, Kuala Lumpur","RM 10,050,000","(RM 9,757 / m2)",,,"1,029.98 m2",Office
+"Kuala Lumpur, Kuala Lumpur","RM 15,700,000","(RM 16,510 / m2)",,,950.92 m2,Office
+"Kuala Lumpur, Kuala Lumpur","RM 10,940,000","(RM 10,037 / m2)",,,"1,090 m2",Office
+"Kuala Lumpur, Kuala Lumpur","RM 11,090,000","(RM 9,797 / m2)",,,"1,131.99 m2",Office
+"Kuala Lumpur, Kuala Lumpur","RM 2,048,200","(RM 11,841 / m2)",,,172.98 m2,Office
+"Kuala Lumpur, Kuala Lumpur","RM 957,950","(RM 12,378 / m2)",,,77.39 m2,Office
+"Kuala Lumpur, Kuala Lumpur","RM 5,592,000","(RM 16,946 / m2)",,,329.98 m2,Office
+"Kuala Lumpur, Kuala Lumpur","RM 1,679,000","(RM 16,627 / m2)",,,100.98 m2,Office
+"Kuala Lumpur, Kuala Lumpur","RM 4,284,800","(RM 6,889 / m2)",,,621.97 m2,Office
+"Kuala Lumpur, Kuala Lumpur","RM 10,100,000","(RM 10,040 / m2)",,,"1,006.01 m2",Office
+"Johor Bahru, Johor","RM 1,050,000",,5,5,,Villa
+"Kuala Lumpur, Kuala Lumpur","RM 197,000",,2,1,,Condo
+Johor,"RM 580,000",,,4,,Commercial
+"Klang, Selangor","RM 14,262,504",,,,"18,928.38 m2",
+"Klang, Selangor","RM 31,889,269",,,,"42,321.62 m2",
+"Johor Bahru, Johor","RM 990,000","(RM 6,181 / m2)",,,160.16 m2,Commercial
+"Klang, Selangor","RM 17,626,764",,,,"23,393.23 m2",
+"Johor Bahru, Johor","RM 2,500,000","(RM 5,470 / m2)",,,457 m2,Commercial
+"Johor Bahru, Johor","RM 435,000",,,2,,Commercial
+"Johor Bahru, Johor","RM 5,000,000",,,,"5,411.97 m2",
+"Johor Bahru, Johor","RM 2,800,000","(RM 5,070 / m2)",,,552.31 m2,Commercial
+"Johor Bahru, Johor","RM 4,224,690",,,,"4,361 m2",
+"Kuala Lumpur, Kuala Lumpur","RM 2,100,000","(RM 5,707 / m2)",,,368 m2,Commercial
+"Pontian, Johor","RM 6,783,722",,,,"33,170 m2",
+"Johor Bahru, Johor","RM 9,852,727",,,,"16,642.7 m2",
+"Seremban, Negeri Sembilan","RM 350,000",(RM 194 / m2),4,4,"1,800 m2",House
+"Kuala Lumpur, Kuala Lumpur","RM 510,000",(RM 500 / m2),3,2,"1,021 m2",Apartment
+"Kinta, Perak","RM 448,800","(RM 2,877 / m2)",4,4,156 m2,House
+"Kinta, Perak","RM 308,800","(RM 3,357 / m2)",4,2,92 m2,House
+"Kinta, Perak","RM 478,000","(RM 2,685 / m2)",4,4,178 m2,House
+"Kinta, Perak","RM 195,500","(RM 2,642 / m2)",3,2,74 m2,House
+"Kinta, Perak","RM 195,500","(RM 2,642 / m2)",3,2,74 m2,House
+"Kinta, Perak","RM 278,880","(RM 3,002 / m2)",4,2,92.9 m2,House
+"Kinta, Perak","RM 448,800","(RM 2,877 / m2)",4,4,156 m2,House
+"Kinta, Perak","RM 408,800","(RM 2,297 / m2)",4,4,178 m2,House
+"Penampang, Sabah","RM 811,170",,5,3,229 m2,House
+Johor,"RM 1,190,000",(RM 350 / m2),4,4,"3,400 m2",House
+"Kinta, Perak","RM 328,800","(RM 3,535 / m2)",4,2,93 m2,House
+"Kinta, Perak","RM 478,000","(RM 2,685 / m2)",4,4,178 m2,House
+"Papar, Sabah","RM 290,000","(RM 3,625 / m2)",3,2,80 m2,House
+"Kinta, Perak","RM 520,000","(RM 2,811 / m2)",5,4,185 m2,House
+"Kinta, Perak","RM 208,000","(RM 1,722 / m2)",3,2,120.77 m2,Apartment
+"Kinta, Perak","RM 298,800","(RM 3,213 / m2)",4,2,93 m2,House
+"Kinta, Perak","RM 478,000","(RM 2,685 / m2)",4,4,178 m2,House
+"Ulu Langat, Selangor","RM 800,000",(RM 390 / m2),5,4,"2,052 m2",House
+"Keningau, Sabah","RM 360,000","(RM 2,250 / m2)",3,2,160 m2,House
+"Ulu Langat, Selangor","RM 164,000",(RM 229 / m2),3,1,715 m2,Apartment
+"Kuala Muda, Kedah","RM 380,000","(RM 2,275 / m2)",4,3,167 m2,House
+"Kinta, Perak","RM 358,800","(RM 2,136 / m2)",4,4,168 m2,House
+"Kinta, Perak","RM 378,000","(RM 4,247 / m2)",3,2,89 m2,House
+"Penampang, Sabah","RM 2,278,888","(RM 4,659 / m2)",5,6,489.13 m2,House
+"Kinta, Perak","RM 628,000","(RM 2,414 / m2)",5,4,260.13 m2,House
+"Gombak, Selangor","RM 837,000",(RM 474 / m2),4,3,"1,764 m2",House
+"Kinta, Perak","RM 438,000","(RM 2,738 / m2)",4,4,160 m2,House
+"Ulu Selangor, Selangor","RM 580,000",(RM 242 / m2),4,3,"2,400 m2",House
+"Kuala Lumpur, Kuala Lumpur","RM 828,000","(RM 3,714 / m2)",4,4,222.96 m2,House
+"Gombak, Selangor","RM 760,000","(RM 3,896 / m2)",4,3,195.09 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 1,080,000","(RM 4,506 / m2)",4,4,239.68 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 1,188,000","(RM 20,462 / m2)",1,1,58.06 m2,Condo
+"Kinta, Perak","RM 358,000","(RM 3,854 / m2)",4,2,92.9 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 768,000","(RM 3,937 / m2)",4,3,195.09 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 1,150,000","(RM 4,761 / m2)",4,4,241.54 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 828,000","(RM 3,714 / m2)",4,4,222.96 m2,House
+"Gombak, Selangor","RM 820,000","(RM 3,678 / m2)",4,4,222.96 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 545,000","(RM 5,457 / m2)",3,2,99.87 m2,Condo
+"Kinta, Perak","RM 218,800","(RM 2,141 / m2)",4,2,102.19 m2,House
+"Gombak, Selangor","RM 828,000","(RM 3,714 / m2)",4,4,222.96 m2,House
+"Alor Gajah, Melaka","RM 900,000","(RM 29,596 / m2)",1,1,30.41 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 928,000","(RM 4,162 / m2)",4,4,222.96 m2,House
+"Gombak, Selangor","RM 828,800","(RM 3,879 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 1,430,000","(RM 20,719 / m2)",1,1,69.02 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 420,000","(RM 2,826 / m2)",3,2,148.64 m2,Condo
+"Johor Bahru, Johor","RM 468,000",(RM 502 / m2),3,2,933 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 4,200,000","(RM 12,689 / m2)",4,5,331 m2,Condo
+"Gombak, Selangor","RM 780,000","(RM 3,998 / m2)",4,4,195.09 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 520,040","(RM 4,522 / m2)",3,2,115.01 m2,Condo
+"Gombak, Selangor","RM 768,800","(RM 3,849 / m2)",4,3,199.73 m2,House
+"Gombak, Selangor","RM 828,800","(RM 3,879 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 475,000","(RM 1,894 / m2)",3,3,250.83 m2,Townhouse
+"Kuala Lumpur, Kuala Lumpur","RM 828,000","(RM 3,714 / m2)",4,4,222.96 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 8,800,000","(RM 14,716 / m2)",4,5,598 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 812,000","(RM 5,463 / m2)",4,4,148.64 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 1,880,000","(RM 9,165 / m2)",5,5,205.12 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 900,000","(RM 3,875 / m2)",5,5,232.25 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 900,000","(RM 3,875 / m2)",5,5,232.25 m2,House
+"Gombak, Selangor","RM 5,600,000","(RM 8,217 / m2)",8,8,681.51 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 760,000","(RM 3,896 / m2)",4,3,195.09 m2,House
+"Gombak, Selangor","RM 828,008","(RM 3,875 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 470,000","(RM 1,874 / m2)",3,3,250.83 m2,Townhouse
+"Kuala Lumpur, Kuala Lumpur","RM 828,000","(RM 3,714 / m2)",4,4,222.96 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 740,000","(RM 3,793 / m2)",4,3,195.09 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 1,870,000","(RM 18,150 / m2)",1,2,103.03 m2,Condo
+"Gombak, Selangor","RM 828,000","(RM 3,714 / m2)",4,4,222.96 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 928,000","(RM 4,162 / m2)",4,4,222.96 m2,House
+"Kinta, Perak","RM 215,800","(RM 2,600 / m2)",3,2,83 m2,House
+"Gombak, Selangor","RM 747,000","(RM 3,829 / m2)",4,3,195.09 m2,House
+"Gombak, Selangor","RM 828,800","(RM 3,879 / m2)",4,4,213.67 m2,House
+"Sepang, Selangor","RM 449,000","(RM 4,045 / m2)",3,3,111 m2,Condo
+"Sepang, Selangor","RM 449,000","(RM 4,045 / m2)",3,3,111 m2,Condo
+Johor,"RM 630,000",(RM 409 / m2),4,3,"1,540 m2",House
+"Kinta, Perak","RM 620,000","(RM 3,370 / m2)",3,2,183.95 m2,House
+"Ulu Selangor, Selangor","RM 2,000,000",(RM 364 / m2),5,6,"5,500 m2",House
+"Kuala Kangsar, Perak","RM 278,880","(RM 2,999 / m2)",4,2,93 m2,House
+"Johor Bahru, Johor","RM 735,000","(RM 5,430 / m2)",4,4,135.36 m2,Condo
+"Johor Bahru, Johor","RM 315,000","(RM 4,921 / m2)",2,1,64.01 m2,Condo
+"Johor Bahru, Johor","RM 335,000","(RM 1,820 / m2)",4,2,184.03 m2,Condo
+"Gombak, Selangor","RM 1,080,000","(RM 5,968 / m2)",4,3,180.97 m2,Condo
+"Johor Bahru, Johor","RM 1,030,000",(RM 419 / m2),5,5,"2,457 m2",House
+"Kinta, Perak","RM 288,000","(RM 2,296 / m2)",3,2,125.42 m2,House
+"Ulu Langat, Selangor","RM 895,000",(RM 358 / m2),5,3,"2,500 m2",House
+"Johor Bahru, Johor","RM 310,000","(RM 3,524 / m2)",3,2,87.98 m2,Apartment
+"Kuala Lumpur, Kuala Lumpur","RM 3,960,000","(RM 31,930 / m2)",3,3,124.02 m2,Condo
+"Gombak, Selangor","RM 465,000","(RM 4,137 / m2)",3,3,112.41 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 899,000","(RM 5,805 / m2)",4,3,154.86 m2,Condo
+"Putrajaya, Putrajaya","RM 3,850,000",(RM 481 / m2),9,9,"8,000 m2",House
+"Kuala Lumpur, Kuala Lumpur","RM 1,956,250","(RM 13,455 / m2)",4,3,145.39 m2,Condo
+"Johor Bahru, Johor","RM 1,130,000",(RM 475 / m2),4,3,"2,380 m2",House
+"Kinta, Perak","RM 358,000","(RM 2,141 / m2)",4,3,167.23 m2,House
+"Kinta, Perak","RM 538,000","(RM 2,445 / m2)",4,4,220 m2,House
+"Petaling, Selangor","RM 1,591,800","(RM 12,835 / m2)",2,2,124.02 m2,Condo
+"Petaling, Selangor","RM 980,000","(RM 10,831 / m2)",2,2,90.48 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 890,000","(RM 7,214 / m2)",3,3,123.37 m2,Condo
+"Johor Bahru, Johor","RM 350,000","(RM 5,726 / m2)",2,2,61.13 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 3,960,000","(RM 12,917 / m2)",3,5,306.57 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 610,000","(RM 3,992 / m2)",3,2,152.82 m2,Condo
+"Johor Bahru, Johor","RM 370,000",(RM 395 / m2),3,2,937 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 2,590,000","(RM 10,322 / m2)",4,5,250.92 m2,Condo
+"Johor Bahru, Johor","RM 328,000","(RM 3,510 / m2)",3,2,93.46 m2,Apartment
+"Gombak, Selangor","RM 1,200,000",(RM 517 / m2),5,5,"2,323 m2",House
+"Johor Bahru, Johor","RM 295,000","(RM 2,400 / m2)",3,2,122.91 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 298,000","(RM 3,765 / m2)",3,2,79.15 m2,Apartment
+"Johor Bahru, Johor","RM 1,220,000","(RM 3,549 / m2)",5,5,343.73 m2,House
+"Kinta, Perak","RM 398,000","(RM 1,485 / m2)",3,2,268.02 m2,House
+"Kinta, Perak","RM 350,000","(RM 2,692 / m2)",4,3,130 m2,House
+"Kinta, Perak","RM 330,000","(RM 2,306 / m2)",3,2,143.1 m2,House
+"Kuala Kangsar, Perak","RM 268,000","(RM 1,748 / m2)",3,2,153.3 m2,House
+"Kinta, Perak","RM 338,000","(RM 2,176 / m2)",4,3,155.34 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 1,138,000","(RM 9,792 / m2)",3,3,116.22 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 420,000","(RM 4,535 / m2)",3,2,92.62 m2,Condo
+"Ulu Langat, Selangor","RM 320,000","(RM 3,596 / m2)",3,2,89 m2,Apartment
+"Kuala Lumpur, Kuala Lumpur","RM 2,200,000","(RM 8,771 / m2)",3,2,250.83 m2,Condo
+"Gombak, Selangor","RM 5,000,000","(RM 8,280 / m2)",6,7,603.85 m2,House
+"Sepang, Selangor","RM 1,800,000","(RM 6,032 / m2)",5,6,298.39 m2,House
+"Johor Bahru, Johor","RM 280,000","(RM 3,567 / m2)",3,2,78.5 m2,Apartment
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 5,144 / m2)",3,2,103.03 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,794,193","(RM 9,317 / m2)",4,4,192.58 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 850,000","(RM 5,083 / m2)",4,3,167.22 m2,Condo
+"Seremban, Negeri Sembilan","RM 332,683","(RM 1,411 / m2)",4,3,235.78 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 899,000","(RM 5,805 / m2)",4,3,154.86 m2,Condo
+"Kinta, Perak","RM 318,000","(RM 3,199 / m2)",3,2,99.4 m2,Condo
+"Johor Bahru, Johor","RM 450,000","(RM 4,372 / m2)",3,2,102.93 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 799,000","(RM 6,443 / m2)",3,3,124.02 m2,Condo
+"Johor Bahru, Johor","RM 348,000","(RM 5,062 / m2)",2,2,68.75 m2,Condo
+"Johor Bahru, Johor","RM 558,000",(RM 279 / m2),4,4,"2,000 m2",House
+"Kuala Lumpur, Kuala Lumpur","RM 550,000","(RM 4,873 / m2)",3,2,112.87 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 899,000","(RM 5,805 / m2)",4,3,154.86 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,000,000","(RM 8,751 / m2)",3,3,114.27 m2,Condo
+"Johor Bahru, Johor","RM 1,580,000",(RM 479 / m2),5,5,"3,300 m2",House
+Johor,"RM 338,000",(RM 352 / m2),4,3,960 m2,House
+"Kota Kinabalu, Sabah","RM 500,000","(RM 3,864 / m2)",3,2,129.41 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 4,000,000","(RM 8,398 / m2)",6,6,476.3 m2,House
+"Ulu Langat, Selangor","RM 1,150,000","(RM 3,523 / m2)",5,5,326.45 m2,House
+"Gombak, Selangor","RM 1,500,000",(RM 600 / m2),4,5,"2,500 m2",House
+"Kuala Lumpur, Kuala Lumpur","RM 260,000","(RM 3,312 / m2)",3,2,78.5 m2,Apartment
+"Ulu Langat, Selangor","RM 1,450,000","(RM 6,003 / m2)",4,4,241.54 m2,House
+"Petaling, Selangor","RM 188,000","(RM 2,375 / m2)",3,2,79.15 m2,Apartment
+"Putrajaya, Putrajaya","RM 580,000","(RM 6,332 / m2)",3,2,91.6 m2,Condo
+"Petaling, Selangor","RM 400,000","(RM 4,394 / m2)",3,2,91.04 m2,Condo
+"Johor Bahru, Johor","RM 598,000","(RM 3,353 / m2)",5,3,178.37 m2,House
+"Petaling, Selangor","RM 400,000","(RM 5,065 / m2)",3,2,78.97 m2,Apartment
+"Petaling, Selangor","RM 550,000","(RM 4,169 / m2)",4,3,131.92 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 799,000","(RM 6,443 / m2)",3,3,124.02 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 450,000","(RM 4,657 / m2)",3,2,96.62 m2,Condo
+"Klang, Selangor","RM 200,000","(RM 2,632 / m2)",3,2,75.99 m2,Apartment
+"Johor Bahru, Johor","RM 410,000","(RM 4,504 / m2)",3,2,91.04 m2,Apartment
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 4,696 / m2)",3,2,112.87 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,000,000","(RM 6,165 / m2)",4,4,162.2 m2,Condo
+"Johor Bahru, Johor","RM 280,000","(RM 3,173 / m2)",3,2,88.25 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 550,000","(RM 4,873 / m2)",3,2,112.87 m2,Condo
+"Johor Bahru, Johor","RM 535,000","(RM 3,388 / m2)",4,3,157.93 m2,House
+"Petaling, Selangor","RM 245,000","(RM 2,442 / m2)",3,2,100.33 m2,Apartment
+"Kuala Lumpur, Kuala Lumpur","RM 550,000","(RM 6,393 / m2)",3,2,86.03 m2,Condo
+"Gombak, Selangor","RM 459,000",(RM 327 / m2),3,2,"1,405 m2",Condo
+"Petaling, Selangor","RM 465,000","(RM 3,775 / m2)",3,2,123.19 m2,Condo
+"Petaling, Selangor","RM 1,250,000","(RM 12,024 / m2)",3,2,103.96 m2,Condo
+"Petaling, Selangor","RM 249,000","(RM 2,635 / m2)",3,2,94.48 m2,Apartment
+"Kuala Lumpur, Kuala Lumpur","RM 790,000","(RM 4,724 / m2)",4,3,167.22 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 500,000","(RM 4,884 / m2)",3,2,102.38 m2,Condo
+"Petaling, Selangor","RM 5,600,000","(RM 8,217 / m2)",7,7,681.51 m2,House
+"Petaling, Selangor","RM 450,000","(RM 8,712 / m2)",2,1,51.65 m2,Condo
+"Johor Bahru, Johor","RM 1,000,000","(RM 7,176 / m2)",4,3,139.35 m2,Serviced Apartment
+"Kuala Lumpur, Kuala Lumpur","RM 380,000","(RM 3,675 / m2)",3,2,103.4 m2,Condo
+"Ulu Langat, Selangor","RM 1,700,000","(RM 5,185 / m2)",5,4,327.84 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 1,236,800","(RM 10,754 / m2)",3,2,115.01 m2,Condo
+"Petaling, Selangor","RM 538,888","(RM 3,369 / m2)",4,3,159.97 m2,Condo
+"Johor Bahru, Johor","RM 528,000","(RM 4,858 / m2)",4,3,108.69 m2,House
+"Petaling, Selangor","RM 3,000,000",(RM 548 / m2),8,8,"5,475 m2",House
+"Petaling, Selangor","RM 399,000","(RM 3,119 / m2)",3,2,127.92 m2,Apartment
+"Petaling, Selangor","RM 430,000","(RM 4,643 / m2)",3,2,92.62 m2,Condo
+"Klang, Selangor","RM 549,000","(RM 3,788 / m2)",4,3,144.92 m2,House
+"Petaling, Selangor","RM 2,500,000","(RM 7,082 / m2)",5,6,353.02 m2,House
+"Petaling, Selangor","RM 1,950,000","(RM 5,584 / m2)",6,7,349.21 m2,House
+"Petaling, Selangor","RM 320,000","(RM 3,756 / m2)",4,2,85.19 m2,Condo
+"Johor Bahru, Johor","RM 1,880,000","(RM 6,173 / m2)",6,6,304.53 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 670,000","(RM 6,556 / m2)",3,2,102.19 m2,Condo
+"Petaling, Selangor","RM 722,536","(RM 6,619 / m2)",3,2,109.16 m2,Condo
+"Petaling, Selangor","RM 6,900,000","(RM 7,041 / m2)",6,7,980 m2,House
+"Ulu Langat, Selangor","RM 1,670,000","(RM 3,595 / m2)",6,6,464.5 m2,House
+"Sepang, Selangor","RM 598,000","(RM 4,751 / m2)",5,3,125.88 m2,House
+"Petaling, Selangor","RM 370,000","(RM 3,621 / m2)",3,2,102.19 m2,Condo
+"Klang, Selangor","RM 599,000","(RM 2,866 / m2)",4,3,209.03 m2,House
+"Petaling, Selangor","RM 350,000","(RM 3,966 / m2)",3,2,88.25 m2,Condo
+"Johor Bahru, Johor","RM 530,000",(RM 288 / m2),4,3,"1,838 m2",House
+"Petaling, Selangor","RM 650,000","(RM 4,876 / m2)",4,3,133.31 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 520,000","(RM 4,370 / m2)",3,2,119 m2,Condo
+"Ulu Langat, Selangor","RM 328,000","(RM 4,153 / m2)",3,2,78.97 m2,Apartment
+"Petaling, Selangor","RM 499,888","(RM 3,125 / m2)",4,3,159.97 m2,Condo
+"Johor Bahru, Johor","RM 598,000","(RM 2,926 / m2)",4,4,204.38 m2,House
+"Gombak, Selangor","RM 1,250,000",(RM 451 / m2),4,3,"2,771 m2",House
+"Petaling, Selangor","RM 650,000","(RM 3,887 / m2)",4,3,167.22 m2,House
+"Petaling, Selangor","RM 2,100,000","(RM 5,651 / m2)",6,5,371.6 m2,House
+"Petaling, Selangor","RM 220,000","(RM 2,329 / m2)",3,2,94.48 m2,Apartment
+"Sepang, Selangor","RM 398,000",(RM 498 / m2),3,2,800 m2,Condo
+"Petaling, Selangor","RM 388,000",(RM 485 / m2),3,2,800 m2,Condo
+"Kinta, Perak","RM 238,000","(RM 2,559 / m2)",4,2,93 m2,House
+"Kinta, Perak","RM 338,800","(RM 3,643 / m2)",4,2,93 m2,House
+"Putrajaya, Putrajaya","RM 250,000","(RM 4,485 / m2)",2,2,55.74 m2,Condo
+"Seremban, Negeri Sembilan","RM 243,000","(RM 4,025 / m2)",2,2,60.38 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 770,000","(RM 3,604 / m2)",4,3,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 718,000","(RM 8,051 / m2)",3,2,89.18 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 653,000","(RM 4,788 / m2)",3,3,136.38 m2,Condo
+"Petaling, Selangor","RM 430,000","(RM 3,306 / m2)",3,3,130.06 m2,Condo
+"Petaling, Selangor","RM 750,000","(RM 8,499 / m2)",3,2,88.25 m2,Condo
+"Gombak, Selangor","RM 429,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 460,000","(RM 1,942 / m2)",4,4,236.89 m2,House
+"Putrajaya, Putrajaya","RM 220,000","(RM 4,736 / m2)",2,2,46.45 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 658,000","(RM 4,196 / m2)",4,3,156.82 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 590,000","(RM 3,343 / m2)",3,2,176.51 m2,Condo
+"Petaling, Selangor","RM 550,000","(RM 3,339 / m2)",4,3,164.71 m2,Condo
+"Gombak, Selangor","RM 840,000","(RM 3,931 / m2)",4,4,213.67 m2,House
+"Petaling, Selangor","RM 730,000",(RM 785 / m2),3,2,930 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 750,000",(RM 789 / m2),3,2,950 m2,Condo
+"Petaling, Selangor","RM 430,000","(RM 3,306 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 418,000","(RM 2,812 / m2)",3,3,148.64 m2,Condo
+"Ulu Langat, Selangor","RM 489,000","(RM 4,049 / m2)",3,3,120.77 m2,Condo
+"Ulu Langat, Selangor","RM 518,000","(RM 3,838 / m2)",3,3,134.98 m2,Condo
+"Gombak, Selangor","RM 450,000","(RM 3,575 / m2)",3,2,125.88 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 447,000","(RM 3,512 / m2)",3,2,127.27 m2,Condo
+"Petaling, Selangor","RM 450,000","(RM 3,588 / m2)",3,3,125.41 m2,Condo
+"Gombak, Selangor","RM 430,000","(RM 3,416 / m2)",3,2,125.88 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,000,000","(RM 6,999 / m2)",4,3,142.88 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 708,800","(RM 8,222 / m2)",3,2,86.21 m2,Condo
+"Barat Daya, Pulau Pinang","RM 650,000","(RM 2,684 / m2)",4,4,242.19 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 420,000",(RM 300 / m2),3,2,"1,400 m2",Condo
+"Petaling, Selangor","RM 450,000","(RM 3,567 / m2)",3,2,126.16 m2,Condo
+"Petaling, Selangor","RM 230,000","(RM 4,502 / m2)",2,2,51.09 m2,Condo
+"Petaling, Selangor","RM 300,000","(RM 4,037 / m2)",2,2,74.32 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 485,000",(RM 411 / m2),3,2,"1,180 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 500,000","(RM 1,922 / m2)",5,4,260.12 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 3,363 / m2)",3,2,127.27 m2,Condo
+"Petaling, Selangor","RM 750,000","(RM 8,499 / m2)",3,2,88.25 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 705,880","(RM 3,377 / m2)",4,4,209.03 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 4,754 / m2)",3,3,111.48 m2,Condo
+"Ulu Langat, Selangor","RM 500,000","(RM 2,705 / m2)",4,3,184.87 m2,House
+"Petaling, Selangor","RM 748,000","(RM 3,501 / m2)",4,4,213.67 m2,House
+"Putrajaya, Putrajaya","RM 250,000","(RM 4,485 / m2)",2,2,55.74 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,379 / m2)",3,2,127.27 m2,Condo
+"Petaling, Selangor","RM 717,800","(RM 8,308 / m2)",3,2,86.4 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 670,000","(RM 2,885 / m2)",5,5,232.25 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 840,000","(RM 3,931 / m2)",4,4,213.67 m2,House
+"Petaling, Selangor","RM 443,000","(RM 3,532 / m2)",3,2,125.41 m2,Condo
+"Ulu Langat, Selangor","RM 300,000","(RM 3,229 / m2)",3,2,92.9 m2,Condo
+"Petaling, Selangor","RM 900,000","(RM 3,875 / m2)",5,5,232.25 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 856,800","(RM 3,862 / m2)",4,4,221.85 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 600,000","(RM 7,876 / m2)",3,2,76.18 m2,Condo
+"Petaling, Selangor","RM 250,000","(RM 3,450 / m2)",2,2,72.46 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 700,000","(RM 8,146 / m2)",3,2,85.93 m2,Condo
+"Kuala Selangor, Selangor","RM 443,000","(RM 3,406 / m2)",3,2,130.06 m2,Condo
+"Gombak, Selangor","RM 850,000","(RM 3,978 / m2)",4,4,213.67 m2,House
+"Gombak, Selangor","RM 445,800","(RM 3,581 / m2)",3,2,124.49 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 442,000","(RM 3,398 / m2)",3,2,130.06 m2,Condo
+"Petaling, Selangor","RM 430,000","(RM 3,306 / m2)",3,2,130.06 m2,Condo
+"Petaling, Selangor","RM 828,000","(RM 3,714 / m2)",4,3,222.96 m2,House
+"Petaling, Selangor","RM 700,000","(RM 3,014 / m2)",5,5,232.25 m2,Condo
+"Petaling, Selangor","RM 920,000","(RM 3,668 / m2)",5,5,250.83 m2,House
+"Petaling, Selangor","RM 780,000","(RM 3,477 / m2)",5,5,224.35 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 750,800","(RM 8,508 / m2)",3,2,88.25 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 878,600","(RM 4,133 / m2)",4,4,212.56 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,379 / m2)",3,2,127.27 m2,Condo
+"Petaling, Selangor","RM 820,000","(RM 3,678 / m2)",4,4,222.96 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 435,800","(RM 3,086 / m2)",3,2,141.21 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 838,800","(RM 3,797 / m2)",4,4,220.92 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 568,800","(RM 3,738 / m2)",3,3,152.17 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 415,000",(RM 346 / m2),3,2,"1,200 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 445,800","(RM 3,581 / m2)",3,2,124.49 m2,Condo
+"Petaling, Selangor","RM 900,000","(RM 3,875 / m2)",5,5,232.25 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 418,000","(RM 6,000 / m2)",3,2,69.67 m2,Condo
+"Sepang, Selangor","RM 299,000","(RM 2,476 / m2)",4,3,120.77 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 588,000","(RM 3,754 / m2)",3,3,156.63 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 443,000","(RM 3,406 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 400,000",(RM 444 / m2),3,2,900 m2,Condo
+"Ulu Langat, Selangor","RM 489,000","(RM 4,201 / m2)",3,3,116.4 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 550,000","(RM 4,075 / m2)",3,3,134.98 m2,Condo
+"Petaling, Selangor","RM 870,000","(RM 3,902 / m2)",4,4,222.96 m2,House
+"Petaling, Selangor","RM 250,000","(RM 3,844 / m2)",2,2,65.03 m2,Condo
+"Petaling, Selangor","RM 450,000","(RM 3,460 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 770,000","(RM 3,315 / m2)",4,3,232.25 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 420,800","(RM 5,807 / m2)",3,2,72.46 m2,Condo
+"Petaling, Selangor","RM 420,000",(RM 300 / m2),3,2,"1,400 m2",Condo
+"Petaling, Selangor","RM 398,000","(RM 5,713 / m2)",3,2,69.67 m2,Condo
+"Petaling, Selangor","RM 900,000","(RM 3,875 / m2)",5,5,232.25 m2,House
+"Sepang, Selangor","RM 230,000","(RM 5,502 / m2)",2,1,41.8 m2,Condo
+"Petaling, Selangor","RM 800,000",(RM 333 / m2),4,4,"2,400 m2",House
+"Petaling, Selangor","RM 400,000","(RM 5,741 / m2)",3,2,69.67 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 5,705 / m2)",3,2,92.9 m2,Condo
+"Petaling, Selangor","RM 730,000","(RM 7,858 / m2)",3,2,92.9 m2,Condo
+"Petaling, Selangor","RM 240,000","(RM 4,893 / m2)",2,2,49.05 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 658,000","(RM 4,196 / m2)",4,3,156.82 m2,House
+"Gombak, Selangor","RM 928,000","(RM 4,162 / m2)",4,4,222.96 m2,House
+"Putrajaya, Putrajaya","RM 240,000","(RM 4,802 / m2)",2,2,49.98 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 550,000",(RM 466 / m2),3,2,"1,180 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 828,800","(RM 3,879 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 750,000",(RM 577 / m2),3,2,"1,300 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 730,000",(RM 785 / m2),3,2,930 m2,Condo
+"Papar, Sabah","RM 300,960","(RM 3,856 / m2)",3,2,78.04 m2,Condo
+"Hilir Perak, Perak","RM 200,000",(RM 222 / m2),3,2,900 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 485,000",(RM 404 / m2),3,2,"1,200 m2",Condo
+"Gombak, Selangor","RM 445,000","(RM 3,575 / m2)",3,2,124.49 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 440,000","(RM 3,534 / m2)",3,2,124.49 m2,Condo
+"Petaling, Selangor","RM 800,000","(RM 3,445 / m2)",4,4,232.25 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 728,000","(RM 4,195 / m2)",4,4,173.54 m2,House
+"Petaling, Selangor","RM 700,000","(RM 3,014 / m2)",5,5,232.25 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 758,800","(RM 3,875 / m2)",4,4,195.83 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,379 / m2)",3,2,127.27 m2,Condo
+"Petaling, Selangor","RM 429,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Seremban, Negeri Sembilan","RM 299,000","(RM 2,476 / m2)",4,3,120.77 m2,Condo
+"Sepang, Selangor","RM 230,000","(RM 5,179 / m2)",2,1,44.41 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 850,000","(RM 3,978 / m2)",4,4,213.67 m2,House
+"Petaling, Selangor","RM 388,800",(RM 518 / m2),3,2,750 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 650,800","(RM 4,195 / m2)",4,3,155.14 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 488,000",(RM 400 / m2),3,2,"1,220 m2",Condo
+"Gombak, Selangor","RM 828,800","(RM 3,879 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 200,000","(RM 2,134 / m2)",3,3,93.74 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 3,291 / m2)",3,2,130.06 m2,Condo
+"Petaling, Selangor","RM 580,000","(RM 3,673 / m2)",3,3,157.93 m2,House
+"Ulu Langat, Selangor","RM 330,000","(RM 3,552 / m2)",3,2,92.9 m2,Condo
+"Gombak, Selangor","RM 300,000","(RM 3,229 / m2)",3,2,92.9 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 4,355 / m2)",3,3,121.7 m2,Condo
+"Petaling, Selangor","RM 418,000",(RM 299 / m2),3,3,"1,400 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 428,800","(RM 3,369 / m2)",3,2,127.27 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 638,000","(RM 5,733 / m2)",3,3,111.29 m2,Condo
+"Gombak, Selangor","RM 550,000","(RM 4,725 / m2)",3,3,116.4 m2,Condo
+"Sepang, Selangor","RM 249,000","(RM 3,942 / m2)",2,2,63.17 m2,Condo
+"Putrajaya, Putrajaya","RM 250,000","(RM 4,485 / m2)",2,2,55.74 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 600,800","(RM 6,545 / m2)",3,2,91.79 m2,Condo
+"Petaling, Selangor","RM 450,000","(RM 1,615 / m2)",3,3,278.7 m2,House
+"Gombak, Selangor","RM 1,038,000","(RM 4,008 / m2)",5,5,259.01 m2,House
+"Petaling, Selangor","RM 820,000","(RM 3,838 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 420,800",(RM 468 / m2),3,2,900 m2,Condo
+"Klang, Selangor","RM 515,000","(RM 2,359 / m2)",4,3,218.31 m2,House
+"Petaling, Selangor","RM 450,000","(RM 3,229 / m2)",3,3,139.35 m2,House
+"Petaling, Selangor","RM 828,800","(RM 3,771 / m2)",4,4,219.8 m2,House
+"Petaling, Selangor","RM 788,800","(RM 3,859 / m2)",4,3,204.38 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 856,800","(RM 4,320 / m2)",4,4,198.34 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 950,000","(RM 9,638 / m2)",3,2,98.57 m2,Serviced Apartment
+"Gombak, Selangor","RM 238,000","(RM 4,591 / m2)",2,2,51.84 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 828,800","(RM 3,501 / m2)",4,4,236.71 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,379 / m2)",3,2,127.27 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 418,000","(RM 3,103 / m2)",3,3,134.7 m2,Condo
+"Petaling, Selangor","RM 750,000","(RM 3,510 / m2)",4,3,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 505,700","(RM 5,136 / m2)",3,2,98.47 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 420,000","(RM 2,512 / m2)",3,2,167.22 m2,Condo
+"Petaling, Selangor","RM 730,000","(RM 8,449 / m2)",3,2,86.4 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 658,000","(RM 4,196 / m2)",4,3,156.82 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,379 / m2)",3,2,127.27 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 680,000","(RM 2,928 / m2)",5,5,232.25 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 378,800","(RM 6,274 / m2)",2,1,60.38 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 5,705 / m2)",3,2,92.9 m2,Condo
+"Petaling, Selangor","RM 1,108,800","(RM 4,872 / m2)",5,5,227.6 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 418,000","(RM 3,103 / m2)",3,3,134.7 m2,Condo
+"Petaling, Selangor","RM 428,000",(RM 317 / m2),3,2,"1,350 m2",Condo
+"Seremban, Negeri Sembilan","RM 299,999","(RM 2,484 / m2)",4,3,120.77 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 415,000",(RM 352 / m2),3,2,"1,180 m2",Condo
+"Petaling, Selangor","RM 480,000","(RM 5,806 / m2)",3,2,82.68 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 836,000","(RM 4,591 / m2)",4,4,182.08 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 928,000","(RM 4,343 / m2)",4,4,213.67 m2,House
+"Petaling, Selangor","RM 650,000","(RM 8,532 / m2)",3,2,76.18 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 220,000","(RM 4,736 / m2)",2,2,46.45 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 528,000","(RM 3,789 / m2)",3,2,139.35 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 760,000","(RM 8,612 / m2)",3,2,88.25 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 420,000",(RM 467 / m2),3,3,900 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,379 / m2)",3,2,127.27 m2,Condo
+"Petaling, Selangor","RM 1,108,000","(RM 4,587 / m2)",5,5,241.54 m2,House
+"Petaling, Selangor","RM 700,000","(RM 3,014 / m2)",5,5,232.25 m2,Condo
+"Petaling, Selangor","RM 718,800","(RM 8,338 / m2)",3,2,86.21 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 5,186 / m2)",3,2,102.19 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 489,123","(RM 4,250 / m2)",3,2,115.1 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,080,000","(RM 4,506 / m2)",4,4,239.68 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 518,000","(RM 3,838 / m2)",3,3,134.98 m2,Condo
+"Seremban, Negeri Sembilan","RM 300,000","(RM 3,588 / m2)",2,2,83.61 m2,Condo
+"Petaling, Selangor","RM 245,000","(RM 4,795 / m2)",2,2,51.09 m2,Condo
+"Putrajaya, Putrajaya","RM 210,000","(RM 4,521 / m2)",2,1,46.45 m2,Condo
+"Petaling, Selangor","RM 800,000","(RM 3,744 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 3,291 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 600,000","(RM 7,176 / m2)",3,2,83.61 m2,Condo
+"Petaling, Selangor","RM 279,000","(RM 3,754 / m2)",2,2,74.32 m2,Condo
+"Ulu Langat, Selangor","RM 523,000","(RM 3,875 / m2)",3,3,134.98 m2,Condo
+"Seremban, Negeri Sembilan","RM 299,999","(RM 2,484 / m2)",4,3,120.77 m2,Condo
+"Sepang, Selangor","RM 350,000","(RM 2,898 / m2)",4,3,120.77 m2,Condo
+"Petaling, Selangor","RM 230,000","(RM 4,126 / m2)",2,2,55.74 m2,Condo
+"Petaling, Selangor","RM 760,800","(RM 3,722 / m2)",4,3,204.38 m2,House
+"Gombak, Selangor","RM 828,800","(RM 3,879 / m2)",4,4,213.67 m2,House
+"Gombak, Selangor","RM 378,800","(RM 1,699 / m2)",4,4,222.96 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 1,000,000","(RM 6,999 / m2)",4,3,142.88 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 750,000","(RM 8,499 / m2)",3,2,88.25 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 750,000",(RM 806 / m2),3,2,930 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 850,000","(RM 3,978 / m2)",4,4,213.67 m2,House
+"Putrajaya, Putrajaya","RM 240,000","(RM 4,714 / m2)",1,1,50.91 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 200,000","(RM 7,176 / m2)",1,1,27.87 m2,Condo
+"Petaling, Selangor","RM 800,000","(RM 3,914 / m2)",4,3,204.38 m2,House
+"Sepang, Selangor","RM 486,000","(RM 5,625 / m2)",3,2,86.4 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 708,800",(RM 764 / m2),3,2,928 m2,Condo
+"Petaling, Selangor","RM 850,000","(RM 3,660 / m2)",4,4,232.25 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 1,038,000","(RM 3,897 / m2)",5,5,266.34 m2,House
+"Petaling, Selangor","RM 443,000","(RM 3,406 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 848,000","(RM 3,969 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 757,000","(RM 8,781 / m2)",3,2,86.21 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 658,000","(RM 3,080 / m2)",3,2,213.67 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 482,101","(RM 4,289 / m2)",3,2,112.41 m2,Condo
+"Petaling, Selangor","RM 445,000","(RM 3,421 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 828,000","(RM 3,875 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 568,500",(RM 471 / m2),3,2,"1,208 m2",Condo
+"Gombak, Selangor","RM 550,000","(RM 4,725 / m2)",3,3,116.4 m2,Condo
+"Petaling, Selangor","RM 828,000",(RM 276 / m2),4,4,"3,000 m2",House
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 3,291 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 230,000","(RM 4,725 / m2)",2,2,48.68 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 608,000","(RM 3,877 / m2)",4,3,156.82 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 718,000","(RM 7,729 / m2)",3,2,92.9 m2,Condo
+"Petaling, Selangor","RM 443,000","(RM 3,406 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 3,291 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 596,800","(RM 3,597 / m2)",3,3,165.92 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 466,000","(RM 5,636 / m2)",3,2,82.68 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 429,000","(RM 5,131 / m2)",3,2,83.61 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 828,000","(RM 3,714 / m2)",4,4,222.96 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 450,000","(RM 1,615 / m2)",3,3,278.7 m2,Townhouse
+"Gombak, Selangor","RM 530,000","(RM 5,705 / m2)",3,2,92.9 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 445,800","(RM 3,581 / m2)",3,2,124.49 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 708,000","(RM 8,023 / m2)",3,2,88.25 m2,Condo
+"Gombak, Selangor","RM 805,000","(RM 3,611 / m2)",4,4,222.96 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 3,450,000","(RM 10,239 / m2)",5,5,336.95 m2,Condo
+"Gombak, Selangor","RM 468,000","(RM 3,598 / m2)",3,3,130.06 m2,Townhouse
+"Kuala Lumpur, Kuala Lumpur","RM 488,000",(RM 407 / m2),3,2,"1,200 m2",Condo
+"Petaling, Selangor","RM 430,000","(RM 3,306 / m2)",3,2,130.06 m2,Condo
+"Ulu Langat, Selangor","RM 549,000","(RM 4,067 / m2)",3,3,134.98 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 420,000",(RM 300 / m2),3,2,"1,400 m2",Condo
+"Petaling, Selangor","RM 443,000","(RM 3,406 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 421,888",(RM 116 / m2),4,4,"3,650 m2",House
+"Kuala Lumpur, Kuala Lumpur","RM 432,000","(RM 3,394 / m2)",3,2,127.27 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 730,000","(RM 8,186 / m2)",3,2,89.18 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 467,000","(RM 5,405 / m2)",3,2,86.4 m2,Condo
+"Petaling, Selangor","RM 630,000","(RM 8,270 / m2)",3,2,76.18 m2,Condo
+"Petaling, Selangor","RM 818,800","(RM 3,832 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 1,150,000","(RM 4,761 / m2)",4,4,241.54 m2,House
+"Petaling, Selangor","RM 230,000","(RM 4,602 / m2)",2,2,49.98 m2,Condo
+"Gombak, Selangor","RM 429,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Petaling, Selangor","RM 830,000",(RM 332 / m2),4,4,"2,500 m2",House
+"Kuala Lumpur, Kuala Lumpur","RM 485,000",(RM 404 / m2),3,2,"1,200 m2",Condo
+"Gombak, Selangor","RM 430,000","(RM 3,416 / m2)",3,2,125.88 m2,Condo
+"Petaling, Selangor","RM 239,000","(RM 4,967 / m2)",2,2,48.12 m2,Condo
+"Petaling, Selangor","RM 230,000","(RM 4,584 / m2)",2,2,50.17 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 5,593 / m2)",4,2,94.76 m2,Condo
+"Petaling, Selangor","RM 433,000","(RM 3,329 / m2)",3,2,130.06 m2,Condo
+"Petaling, Selangor","RM 1,750,000","(RM 6,496 / m2)",5,5,269.41 m2,House
+"Petaling, Selangor","RM 828,000","(RM 3,875 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 3,291 / m2)",3,2,130.06 m2,Condo
+"Petaling, Selangor","RM 450,000","(RM 3,615 / m2)",3,2,124.49 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 708,800","(RM 8,222 / m2)",3,2,86.21 m2,Condo
+"Petaling, Selangor","RM 818,800","(RM 3,672 / m2)",4,4,222.96 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 489,000","(RM 4,201 / m2)",3,3,116.4 m2,Condo
+"Petaling, Selangor","RM 718,000","(RM 7,729 / m2)",3,2,92.9 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 412,000","(RM 2,384 / m2)",3,2,172.79 m2,Condo
+"Petaling, Selangor","RM 230,000","(RM 4,126 / m2)",2,2,55.74 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 485,000",(RM 404 / m2),3,2,"1,200 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 513,000","(RM 4,248 / m2)",3,3,120.77 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 820,000","(RM 4,761 / m2)",4,4,172.24 m2,House
+"Petaling, Selangor","RM 828,000","(RM 3,714 / m2)",4,4,222.96 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 450,000","(RM 3,615 / m2)",3,2,124.49 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 544,580","(RM 5,015 / m2)",3,2,108.6 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,429 / m2)",3,2,125.41 m2,Condo
+"Petaling, Selangor","RM 920,000","(RM 3,415 / m2)",5,5,269.41 m2,House
+"Petaling, Selangor","RM 780,000","(RM 3,816 / m2)",4,3,204.38 m2,House
+"Gombak, Selangor","RM 430,000","(RM 3,416 / m2)",3,2,125.88 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 802,800","(RM 3,777 / m2)",4,4,212.56 m2,House
+"Labuan, Labuan","RM 430,000","(RM 3,306 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 720,000","(RM 8,333 / m2)",3,2,86.4 m2,Condo
+"Petaling, Selangor","RM 489,000","(RM 5,500 / m2)",3,2,88.91 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,408 / m2)",3,2,126.16 m2,Condo
+"Gombak, Selangor","RM 560,000","(RM 4,637 / m2)",3,3,120.77 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 708,800","(RM 8,222 / m2)",3,2,86.21 m2,Condo
+"Kuala Langat, Selangor","RM 749,000","(RM 3,583 / m2)",4,3,209.03 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 560,000","(RM 4,637 / m2)",3,3,120.77 m2,Condo
+"Petaling, Selangor","RM 200,000","(RM 4,306 / m2)",2,2,46.45 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 438,000","(RM 1,626 / m2)",4,4,269.41 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 1,038,800","(RM 3,943 / m2)",5,5,263.46 m2,House
+"Gombak, Selangor","RM 688,800","(RM 3,952 / m2)",3,3,174.28 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 5,186 / m2)",3,2,102.19 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 220,000","(RM 2,368 / m2)",1,1,92.9 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,379 / m2)",3,2,127.27 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 536,000","(RM 4,605 / m2)",3,3,116.4 m2,Condo
+"Gombak, Selangor","RM 475,000","(RM 1,894 / m2)",3,3,250.83 m2,Townhouse
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 3,413 / m2)",3,2,125.41 m2,Condo
+"Petaling, Selangor","RM 600,000","(RM 7,176 / m2)",3,2,83.61 m2,Condo
+"Petaling, Selangor","RM 430,000","(RM 3,306 / m2)",3,3,130.06 m2,Condo
+"Petaling, Selangor","RM 420,800","(RM 5,807 / m2)",3,2,72.46 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 680,000","(RM 2,928 / m2)",5,5,232.25 m2,Condo
+"Petaling, Selangor","RM 900,000","(RM 3,875 / m2)",5,5,232.25 m2,House
+"Petaling, Selangor","RM 788,800","(RM 3,859 / m2)",4,3,204.38 m2,House
+"Petaling, Selangor","RM 450,000","(RM 3,460 / m2)",3,2,130.06 m2,Condo
+"Petaling, Selangor","RM 230,000","(RM 4,502 / m2)",2,2,51.09 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 590,000","(RM 4,536 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 450,000","(RM 4,485 / m2)",3,2,100.33 m2,Condo
+"Petaling, Selangor","RM 400,000","(RM 5,741 / m2)",3,2,69.67 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 624,500","(RM 6,545 / m2)",3,2,95.41 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 700,000","(RM 8,102 / m2)",3,2,86.4 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 500,000","(RM 2,153 / m2)",5,4,232.25 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 818,000",(RM 454 / m2),4,4,"1,800 m2",House
+"Petaling, Selangor","RM 450,000","(RM 2,422 / m2)",3,3,185.8 m2,House
+"Petaling, Selangor","RM 1,108,800","(RM 4,872 / m2)",5,5,227.6 m2,House
+"Kuala Langat, Selangor","RM 850,000","(RM 2,921 / m2)",5,5,290.96 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 443,000","(RM 3,511 / m2)",3,2,126.16 m2,Condo
+"Petaling, Selangor","RM 445,800","(RM 3,581 / m2)",3,2,124.49 m2,Condo
+"Gombak, Selangor","RM 778,000","(RM 3,988 / m2)",4,3,195.09 m2,House
+"Putrajaya, Putrajaya","RM 299,000","(RM 2,476 / m2)",4,3,120.77 m2,Condo
+"Seremban, Negeri Sembilan","RM 299,000","(RM 2,476 / m2)",4,3,120.77 m2,Condo
+"Petaling, Selangor","RM 430,000","(RM 5,260 / m2)",3,2,81.75 m2,Condo
+"Petaling, Selangor","RM 801,800","(RM 3,497 / m2)",4,4,229.28 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 450,000","(RM 3,567 / m2)",3,2,126.16 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 820,000","(RM 3,838 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 445,800","(RM 3,581 / m2)",3,2,124.49 m2,Condo
+"Putrajaya, Putrajaya","RM 299,999","(RM 2,484 / m2)",4,3,120.77 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 490,000",(RM 415 / m2),3,2,"1,180 m2",Condo
+"Petaling, Selangor","RM 688,800","(RM 4,440 / m2)",4,3,155.14 m2,House
+"Putrajaya, Putrajaya","RM 200,000","(RM 4,306 / m2)",2,2,46.45 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 220,000","(RM 7,894 / m2)",1,1,27.87 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 432,800","(RM 3,401 / m2)",3,2,127.27 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 450,000",(RM 225 / m2),3,3,"2,000 m2",House
+"Sepang, Selangor","RM 243,000","(RM 5,231 / m2)",1,1,46.45 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,306 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 228,000","(RM 4,909 / m2)",2,2,46.45 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 230,000","(RM 4,952 / m2)",2,1,46.45 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 718,000","(RM 8,310 / m2)",3,2,86.4 m2,Condo
+"Sepang, Selangor","RM 250,000","(RM 4,893 / m2)",2,2,51.09 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 750,000","(RM 8,499 / m2)",3,2,88.25 m2,Condo
+"Gombak, Selangor","RM 550,000","(RM 5,920 / m2)",3,2,92.9 m2,Condo
+"Putrajaya, Putrajaya","RM 2,250,000","(RM 5,382 / m2)",6,7,418.05 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 3,291 / m2)",3,3,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,306 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 550,000","(RM 4,725 / m2)",3,3,116.4 m2,Condo
+"Petaling, Selangor","RM 400,000","(RM 5,741 / m2)",3,2,69.67 m2,Condo
+"Petaling, Selangor","RM 750,000","(RM 3,670 / m2)",4,3,204.38 m2,House
+"Petaling, Selangor","RM 443,000","(RM 3,406 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 440,000","(RM 1,895 / m2)",4,4,232.25 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 434,000","(RM 3,410 / m2)",3,2,127.27 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 688,000","(RM 4,142 / m2)",3,3,166.11 m2,House
+"Putrajaya, Putrajaya","RM 299,999","(RM 2,484 / m2)",4,3,120.77 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 3,291 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 418,000","(RM 2,678 / m2)",3,2,156.07 m2,Condo
+"Petaling, Selangor","RM 428,000",(RM 317 / m2),3,2,"1,350 m2",Condo
+"Gombak, Selangor","RM 246,000","(RM 4,832 / m2)",2,2,50.91 m2,Condo
+"Gombak, Selangor","RM 428,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Ulu Langat, Selangor","RM 529,000","(RM 4,545 / m2)",3,3,116.4 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 750,000","(RM 8,499 / m2)",3,2,88.25 m2,Condo
+"Ulu Langat, Selangor","RM 544,000","(RM 3,098 / m2)",4,3,175.58 m2,House
+"Petaling, Selangor","RM 488,000","(RM 5,837 / m2)",3,2,83.61 m2,Condo
+"Putrajaya, Putrajaya","RM 240,000","(RM 4,802 / m2)",2,2,49.98 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 230,000","(RM 4,502 / m2)",2,2,51.09 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 450,000",(RM 346 / m2),3,2,"1,300 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 828,000","(RM 3,875 / m2)",4,4,213.67 m2,House
+"Gombak, Selangor","RM 428,000","(RM 3,413 / m2)",3,2,125.41 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 5,186 / m2)",4,2,102.19 m2,Condo
+"Petaling, Selangor","RM 430,000","(RM 3,306 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 231,000","(RM 2,484 / m2)",3,2,92.99 m2,Condo
+"Petaling, Selangor","RM 443,000","(RM 3,406 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 750,000","(RM 8,499 / m2)",3,2,88.25 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 680,000","(RM 5,856 / m2)",4,3,116.13 m2,House
+"Petaling, Selangor","RM 443,000","(RM 3,406 / m2)",3,2,130.06 m2,Condo
+"Gombak, Selangor","RM 828,800","(RM 3,879 / m2)",4,4,213.67 m2,House
+"Petaling, Selangor","RM 445,000","(RM 3,575 / m2)",3,2,124.49 m2,Condo
+"Putrajaya, Putrajaya","RM 230,000","(RM 4,952 / m2)",2,2,46.45 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 500,000",(RM 424 / m2),3,2,"1,180 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,000,000","(RM 6,999 / m2)",4,3,142.88 m2,Condo
+"Petaling, Selangor","RM 840,000","(RM 3,931 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 3,800,000","(RM 10,416 / m2)",4,5,364.82 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 708,000",(RM 761 / m2),3,2,930 m2,Condo
+"Petaling, Selangor","RM 300,000","(RM 4,613 / m2)",2,2,65.03 m2,Condo
+"Petaling, Selangor","RM 430,000",(RM 307 / m2),3,2,"1,400 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 840,000","(RM 3,931 / m2)",4,4,213.67 m2,House
+"Petaling, Selangor","RM 828,000","(RM 2,971 / m2)",4,3,278.7 m2,House
+"Petaling, Selangor","RM 818,000","(RM 3,828 / m2)",4,4,213.67 m2,House
+"Sepang, Selangor","RM 199,999","(RM 4,306 / m2)",2,1,46.45 m2,Condo
+"Putrajaya, Putrajaya","RM 240,000","(RM 4,698 / m2)",2,2,51.09 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 530,800","(RM 5,101 / m2)",3,2,104.05 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 420,800","(RM 5,033 / m2)",3,2,83.61 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 450,000","(RM 3,460 / m2)",3,2,130.06 m2,Condo
+"Petaling, Selangor","RM 460,000","(RM 1,834 / m2)",3,3,250.83 m2,Townhouse
+"Sepang, Selangor","RM 300,000","(RM 2,484 / m2)",4,3,120.77 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 850,000","(RM 3,660 / m2)",4,3,232.25 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 450,000","(RM 3,567 / m2)",3,2,126.16 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 420,800","(RM 4,530 / m2)",3,2,92.9 m2,Condo
+"Gombak, Selangor","RM 1,080,000","(RM 4,506 / m2)",4,4,239.68 m2,House
+"Petaling, Selangor","RM 445,800","(RM 3,581 / m2)",3,2,124.49 m2,Condo
+"Gombak, Selangor","RM 778,000","(RM 3,988 / m2)",4,3,195.09 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 481,290","(RM 4,089 / m2)",3,2,117.7 m2,Condo
+"Petaling, Selangor","RM 450,000","(RM 3,460 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 5,705 / m2)",3,2,92.9 m2,Condo
+"Seremban, Negeri Sembilan","RM 492,100",(RM 113 / m2),5,5,"4,355 m2",House
+"Petaling, Selangor","RM 820,000","(RM 3,838 / m2)",4,4,213.67 m2,House
+"Gombak, Selangor","RM 428,000","(RM 3,413 / m2)",3,2,125.41 m2,Condo
+"Petaling, Selangor","RM 445,000",(RM 318 / m2),3,2,"1,400 m2",Condo
+"Petaling, Selangor","RM 428,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Petaling, Selangor","RM 418,000","(RM 3,261 / m2)",3,3,128.2 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 708,800","(RM 8,222 / m2)",3,2,86.21 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 545,000","(RM 4,346 / m2)",3,3,125.41 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 450,000",(RM 150 / m2),3,3,"3,000 m2",House
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,306 / m2)",3,2,130.06 m2,Condo
+"Petaling, Selangor","RM 440,000",(RM 314 / m2),3,2,"1,400 m2",Condo
+"Petaling, Selangor","RM 280,000","(RM 4,019 / m2)",2,2,69.67 m2,Condo
+"Gombak, Selangor","RM 429,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Seremban, Negeri Sembilan","RM 299,000","(RM 2,476 / m2)",4,3,120.77 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 802,880","(RM 3,776 / m2)",4,4,212.65 m2,House
+"Kuala Langat, Selangor","RM 580,000","(RM 2,714 / m2)",4,3,213.67 m2,House
+"Petaling, Selangor","RM 230,000","(RM 2,476 / m2)",2,2,92.9 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 630,000","(RM 8,291 / m2)",3,2,75.99 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 442,000","(RM 3,398 / m2)",3,2,130.06 m2,Condo
+"Petaling, Selangor","RM 460,000","(RM 5,520 / m2)",3,2,83.33 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 778,000","(RM 3,988 / m2)",4,3,195.09 m2,House
+"Petaling, Selangor","RM 443,000","(RM 3,406 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 850,000","(RM 3,978 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 3,291 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 220,000","(RM 7,894 / m2)",1,1,27.87 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 680,000","(RM 2,928 / m2)",5,5,232.25 m2,Condo
+"Gombak, Selangor","RM 430,000","(RM 3,416 / m2)",3,2,125.88 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 280,000","(RM 4,637 / m2)",3,2,60.38 m2,Apartment
+"Kuala Lumpur, Kuala Lumpur","RM 440,000","(RM 3,534 / m2)",3,2,124.49 m2,Condo
+"Petaling, Selangor","RM 708,000","(RM 8,023 / m2)",3,2,88.25 m2,Condo
+"Petaling, Selangor","RM 1,108,000","(RM 4,260 / m2)",5,5,260.12 m2,House
+"Petaling, Selangor","RM 428,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 868,000","(RM 4,062 / m2)",4,4,213.67 m2,House
+"Petaling, Selangor","RM 818,800","(RM 4,571 / m2)",4,3,179.11 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 688,800","(RM 7,990 / m2)",3,2,86.21 m2,Condo
+"Ulu Langat, Selangor","RM 540,000","(RM 2,921 / m2)",4,3,184.87 m2,House
+"Petaling, Selangor","RM 828,000","(RM 3,565 / m2)",4,3,232.25 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 828,000","(RM 3,875 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 568,000","(RM 4,199 / m2)",3,3,135.26 m2,House
+"Petaling, Selangor","RM 3,500,000","(RM 8,689 / m2)",5,5,402.81 m2,House
+"Putrajaya, Putrajaya","RM 299,000","(RM 2,476 / m2)",4,3,120.77 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 500,000","(RM 5,382 / m2)",3,2,92.9 m2,Condo
+"Petaling, Selangor","RM 429,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 460,000","(RM 3,809 / m2)",3,2,120.77 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 200,000","(RM 2,151 / m2)",3,3,92.99 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 658,000","(RM 5,639 / m2)",3,3,116.68 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 230,000",(RM 329 / m2),2,2,700 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 630,000","(RM 6,781 / m2)",4,2,92.9 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 2,879 / m2)",4,3,148.64 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 625,000","(RM 5,606 / m2)",3,2,111.48 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 730,000",(RM 785 / m2),3,2,930 m2,Condo
+"Petaling, Selangor","RM 800,000",(RM 267 / m2),4,4,"3,000 m2",House
+"Kuala Lumpur, Kuala Lumpur","RM 250,000","(RM 1,922 / m2)",3,3,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 880,000","(RM 3,056 / m2)",6,5,287.99 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 634,000","(RM 5,687 / m2)",3,2,111.48 m2,Condo
+"Gombak, Selangor","RM 429,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 429,700","(RM 3,376 / m2)",3,2,127.27 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 708,000","(RM 8,023 / m2)",3,2,88.25 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 250,000","(RM 3,844 / m2)",2,2,65.03 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 500,000","(RM 5,382 / m2)",3,2,92.9 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 658,000","(RM 4,399 / m2)",4,3,149.57 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 750,000","(RM 8,499 / m2)",3,2,88.25 m2,Condo
+"Petaling, Selangor","RM 818,000","(RM 3,669 / m2)",4,4,222.96 m2,House
+"Petaling, Selangor","RM 230,000","(RM 4,502 / m2)",2,2,51.09 m2,Condo
+"Petaling, Selangor","RM 420,000","(RM 3,349 / m2)",3,2,125.41 m2,Condo
+"Petaling, Selangor","RM 388,800",(RM 518 / m2),3,2,750 m2,Condo
+"Petaling, Selangor","RM 468,000","(RM 3,598 / m2)",3,3,130.06 m2,Townhouse
+"Kuala Lumpur, Kuala Lumpur","RM 828,800","(RM 3,899 / m2)",4,4,212.56 m2,House
+"Petaling, Selangor","RM 1,108,800","(RM 4,774 / m2)",5,4,232.25 m2,House
+"Petaling, Selangor","RM 808,800","(RM 3,785 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 468,000","(RM 4,198 / m2)",3,3,111.48 m2,Townhouse
+"Kuala Lumpur, Kuala Lumpur","RM 500,000","(RM 2,153 / m2)",4,4,232.25 m2,House
+"Gombak, Selangor","RM 445,800","(RM 3,581 / m2)",3,2,124.49 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 770,000","(RM 3,315 / m2)",4,3,232.25 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 826,000","(RM 4,762 / m2)",4,4,173.44 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 477,000","(RM 5,521 / m2)",3,2,86.4 m2,Condo
+"Petaling, Selangor","RM 820,000","(RM 3,838 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 510,000",(RM 432 / m2),3,2,"1,180 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 428,800",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Petaling, Selangor","RM 750,000","(RM 8,499 / m2)",3,2,88.25 m2,Condo
+"Petaling, Selangor","RM 440,000","(RM 3,534 / m2)",3,2,124.49 m2,Condo
+"Gombak, Selangor","RM 450,000","(RM 3,567 / m2)",3,2,126.16 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 550,000","(RM 6,578 / m2)",3,2,83.61 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 638,000","(RM 4,068 / m2)",4,3,156.82 m2,House
+"Petaling, Selangor","RM 818,000","(RM 3,669 / m2)",4,4,222.96 m2,House
+"Petaling, Selangor","RM 428,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Petaling, Selangor","RM 450,000","(RM 3,510 / m2)",3,2,128.2 m2,Condo
+"Klang, Selangor","RM 400,000","(RM 3,120 / m2)",3,2,128.2 m2,Condo
+"Petaling, Selangor","RM 780,000","(RM 3,998 / m2)",4,3,195.09 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 475,000","(RM 1,894 / m2)",3,3,250.83 m2,Townhouse
+"Petaling, Selangor","RM 428,000",(RM 317 / m2),3,2,"1,350 m2",Condo
+"Gombak, Selangor","RM 828,000","(RM 3,875 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 443,000","(RM 3,406 / m2)",3,2,130.06 m2,Condo
+"Petaling, Selangor","RM 488,000","(RM 5,648 / m2)",3,2,86.4 m2,Condo
+"Gombak, Selangor","RM 440,000","(RM 3,534 / m2)",3,2,124.49 m2,Condo
+"Gombak, Selangor","RM 230,000","(RM 4,126 / m2)",2,2,55.74 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 220,000","(RM 7,894 / m2)",1,1,27.87 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 445,000","(RM 3,497 / m2)",3,2,127.27 m2,Condo
+"Petaling, Selangor","RM 820,000","(RM 3,838 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 1,000,000","(RM 6,999 / m2)",4,3,142.88 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 429,800","(RM 2,892 / m2)",3,3,148.64 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 420,000","(RM 4,468 / m2)",3,2,94.01 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 530,000",(RM 439 / m2),3,3,"1,207.7 m2",Condo
+"Gombak, Selangor","RM 828,800","(RM 4,461 / m2)",4,4,185.8 m2,House
+"Petaling, Selangor","RM 429,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Petaling, Selangor","RM 1,108,800","(RM 4,872 / m2)",5,5,227.6 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 539,000","(RM 4,619 / m2)",3,3,116.68 m2,Condo
+"Petaling, Selangor","RM 2,250,000","(RM 5,265 / m2)",5,6,427.34 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 718,800","(RM 3,321 / m2)",4,4,216.46 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 465,000","(RM 3,575 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 820,000","(RM 3,838 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 757,000","(RM 8,781 / m2)",3,2,86.21 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,408 / m2)",3,2,126.16 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 708,800","(RM 8,222 / m2)",3,2,86.21 m2,Condo
+"Seremban, Negeri Sembilan","RM 299,000","(RM 2,476 / m2)",4,3,120.77 m2,Condo
+"Gombak, Selangor","RM 430,000","(RM 3,416 / m2)",3,2,125.88 m2,Condo
+"Petaling, Selangor","RM 900,000","(RM 3,875 / m2)",5,5,232.25 m2,House
+"Sepang, Selangor","RM 299,000","(RM 2,476 / m2)",4,3,120.77 m2,Condo
+"Petaling, Selangor","RM 468,000","(RM 5,616 / m2)",3,2,83.33 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 3,291 / m2)",3,2,130.06 m2,Condo
+"Sepang, Selangor","RM 698,000","(RM 3,005 / m2)",5,5,232.25 m2,Condo
+"Gombak, Selangor","RM 850,000","(RM 3,978 / m2)",4,4,213.67 m2,House
+"Ulu Langat, Selangor","RM 490,000","(RM 4,210 / m2)",3,3,116.4 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 3,291 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,454 / m2)",3,2,124.49 m2,Condo
+"Petaling, Selangor","RM 750,000","(RM 8,499 / m2)",3,2,88.25 m2,Condo
+"Gombak, Selangor","RM 455,000",(RM 337 / m2),3,2,"1,350 m2",House
+"Petaling, Selangor","RM 430,000","(RM 3,248 / m2)",3,3,132.38 m2,Condo
+"Gombak, Selangor","RM 428,000",(RM 317 / m2),3,2,"1,350 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 486,500",(RM 483 / m2),3,2,"1,008 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,379 / m2)",3,2,127.27 m2,Condo
+"Klang, Selangor","RM 400,000","(RM 3,312 / m2)",3,2,120.77 m2,Condo
+"Gombak, Selangor","RM 1,150,000","(RM 4,761 / m2)",4,4,241.54 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 429,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,150,000","(RM 4,761 / m2)",4,4,241.54 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 5,094 / m2)",4,2,104.05 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 750,000",(RM 806 / m2),3,2,930 m2,Condo
+"Gombak, Selangor","RM 828,000","(RM 3,875 / m2)",4,4,213.67 m2,House
+"Gombak, Selangor","RM 450,000","(RM 3,567 / m2)",3,2,126.16 m2,Condo
+"Petaling, Selangor","RM 330,000","(RM 5,729 / m2)",2,2,57.6 m2,Condo
+"Ulu Langat, Selangor","RM 539,000","(RM 4,463 / m2)",3,3,120.77 m2,Condo
+"Petaling, Selangor","RM 780,800","(RM 4,002 / m2)",4,4,195.09 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 378,800","(RM 6,274 / m2)",2,1,60.38 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,306 / m2)",3,2,130.06 m2,Condo
+"Kuala Selangor, Selangor","RM 445,800","(RM 3,581 / m2)",3,2,124.49 m2,Condo
+"Petaling, Selangor","RM 828,000","(RM 5,571 / m2)",4,4,148.64 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 440,000","(RM 1,692 / m2)",4,4,260.12 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 480,000","(RM 4,306 / m2)",3,3,111.48 m2,Condo
+"Petaling, Selangor","RM 900,000","(RM 3,341 / m2)",5,5,269.41 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 630,000","(RM 8,291 / m2)",3,2,75.99 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 770,000","(RM 3,315 / m2)",4,3,232.25 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 638,000","(RM 5,733 / m2)",3,3,111.29 m2,Condo
+"Gombak, Selangor","RM 928,000","(RM 4,162 / m2)",4,4,222.96 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 680,000","(RM 3,918 / m2)",3,3,173.54 m2,House
+"Putrajaya, Putrajaya","RM 230,000","(RM 4,502 / m2)",2,2,51.09 m2,Condo
+"Gombak, Selangor","RM 430,000",(RM 307 / m2),3,2,"1,400 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 450,000","(RM 4,325 / m2)",3,3,104.05 m2,Condo
+"Petaling, Selangor","RM 428,000",(RM 317 / m2),3,2,"1,350 m2",Condo
+"Petaling, Selangor","RM 760,000","(RM 3,896 / m2)",4,3,195.09 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 530,000",(RM 530 / m2),3,2,"1,000 m2",Condo
+"Ulu Langat, Selangor","RM 600,000","(RM 2,808 / m2)",5,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 820,000","(RM 3,838 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 378,800","(RM 6,274 / m2)",2,1,60.38 m2,Condo
+"Petaling, Selangor","RM 440,000","(RM 3,534 / m2)",3,2,124.49 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 200,000","(RM 3,915 / m2)",2,1,51.09 m2,Condo
+"Petaling, Selangor","RM 428,000",(RM 317 / m2),3,2,"1,350 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 378,800","(RM 6,274 / m2)",2,1,60.38 m2,Condo
+"Petaling, Selangor","RM 430,000",(RM 319 / m2),3,2,"1,350 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 688,000","(RM 4,142 / m2)",3,3,166.11 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 750,000",(RM 808 / m2),3,2,928 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 760,000","(RM 8,612 / m2)",3,2,88.25 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 618,800","(RM 3,946 / m2)",4,3,156.82 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 718,000","(RM 8,051 / m2)",3,2,89.18 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 250,000","(RM 3,844 / m2)",2,2,65.03 m2,Condo
+"Ulu Langat, Selangor","RM 550,000","(RM 4,725 / m2)",3,3,116.4 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 445,000","(RM 3,575 / m2)",3,2,124.49 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 500,000","(RM 3,588 / m2)",3,2,139.35 m2,Condo
+"Petaling, Selangor","RM 430,000",(RM 307 / m2),3,2,"1,400 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 5,094 / m2)",3,2,104.05 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 3,071 / m2)",3,3,139.35 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 565,000",(RM 468 / m2),3,2,"1,208 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 789,000","(RM 4,853 / m2)",4,4,162.57 m2,House
+"Petaling, Selangor","RM 820,000","(RM 3,838 / m2)",4,4,213.67 m2,House
+"Petaling, Selangor","RM 818,000","(RM 3,828 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 378,800","(RM 6,274 / m2)",2,1,60.38 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 750,000",(RM 806 / m2),3,2,930 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 378,800","(RM 6,086 / m2)",2,1,62.24 m2,Condo
+"Petaling, Selangor","RM 750,000","(RM 3,510 / m2)",4,4,213.67 m2,House
+"Petaling, Selangor","RM 828,000",(RM 276 / m2),4,4,"3,000 m2",House
+"Petaling, Selangor","RM 260,000","(RM 3,998 / m2)",2,2,65.03 m2,Condo
+"Petaling, Selangor","RM 240,000","(RM 4,714 / m2)",2,2,50.91 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 648,000","(RM 4,982 / m2)",3,3,130.06 m2,House
+"Petaling, Selangor","RM 887,800","(RM 4,214 / m2)",4,4,210.7 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 820,000","(RM 4,723 / m2)",4,3,173.63 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 718,000","(RM 8,051 / m2)",3,2,89.18 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 450,000",(RM 346 / m2),3,2,"1,300 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 500,800","(RM 4,901 / m2)",3,2,102.19 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 520,000","(RM 4,665 / m2)",3,2,111.48 m2,Condo
+"Gombak, Selangor","RM 530,000","(RM 5,186 / m2)",3,2,102.19 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 5,705 / m2)",3,2,92.9 m2,Condo
+"Gombak, Selangor","RM 828,000","(RM 3,714 / m2)",4,4,222.96 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 442,800","(RM 3,479 / m2)",3,2,127.27 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 658,000","(RM 3,080 / m2)",3,2,213.67 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 450,000","(RM 3,460 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 630,000",(RM 636 / m2),3,2,990 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,416 / m2)",3,2,125.88 m2,Condo
+"Putrajaya, Putrajaya","RM 240,000","(RM 4,572 / m2)",1,1,52.49 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 850,000","(RM 3,978 / m2)",4,4,213.67 m2,House
+"Kuala Selangor, Selangor","RM 445,800","(RM 3,581 / m2)",3,2,124.49 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 680,000","(RM 5,856 / m2)",4,3,116.13 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 5,705 / m2)",3,2,92.9 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,408 / m2)",3,2,126.16 m2,Condo
+"Sepang, Selangor","RM 260,000","(RM 3,712 / m2)",3,2,70.05 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 840,000","(RM 3,931 / m2)",4,4,213.67 m2,House
+"Kuala Selangor, Selangor","RM 1,080,000","(RM 4,506 / m2)",4,4,239.68 m2,House
+"Ulu Langat, Selangor","RM 569,000","(RM 4,888 / m2)",3,3,116.4 m2,Condo
+"Petaling, Selangor","RM 600,000","(RM 7,176 / m2)",3,2,83.61 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 770,000","(RM 3,315 / m2)",4,3,232.25 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 448,000","(RM 5,311 / m2)",3,2,84.35 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 230,000","(RM 4,761 / m2)",2,2,48.31 m2,Condo
+"Petaling, Selangor","RM 920,000","(RM 3,668 / m2)",5,5,250.83 m2,House
+"Petaling, Selangor","RM 688,000","(RM 2,962 / m2)",5,5,232.25 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 539,000","(RM 3,993 / m2)",3,3,134.98 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 708,800","(RM 8,222 / m2)",3,2,86.21 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 5,705 / m2)",3,2,92.9 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,080,000","(RM 4,506 / m2)",4,4,239.68 m2,House
+"Gombak, Selangor","RM 468,000","(RM 3,598 / m2)",3,3,130.06 m2,Townhouse
+"Gombak, Selangor","RM 445,800","(RM 3,581 / m2)",3,2,124.49 m2,Condo
+"Petaling, Selangor","RM 1,790,000","(RM 4,268 / m2)",6,6,419.44 m2,House
+"Petaling, Selangor","RM 240,000","(RM 4,714 / m2)",2,2,50.91 m2,Condo
+"Petaling, Selangor","RM 900,000","(RM 3,875 / m2)",5,5,232.25 m2,House
+"Petaling, Selangor","RM 500,000","(RM 4,485 / m2)",3,3,111.48 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 480,000","(RM 4,306 / m2)",4,3,111.48 m2,Condo
+"Petaling, Selangor","RM 429,000",(RM 268 / m2),3,2,"1,600 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 1,100,000","(RM 8,166 / m2)",3,2,134.7 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 500,000",(RM 581 / m2),2,2,860 m2,Condo
+"Petaling, Selangor","RM 800,000","(RM 3,588 / m2)",4,3,222.96 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 419,000","(RM 3,007 / m2)",3,3,139.35 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 630,000","(RM 6,781 / m2)",4,2,92.9 m2,Condo
+"Gombak, Selangor","RM 430,000","(RM 3,416 / m2)",3,2,125.88 m2,Condo
+"Gombak, Selangor","RM 928,000","(RM 4,343 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 410,000","(RM 2,758 / m2)",3,2,148.64 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 3,291 / m2)",3,2,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 429,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Gombak, Selangor","RM 428,000","(RM 3,413 / m2)",3,2,125.41 m2,Condo
+"Petaling, Selangor","RM 440,800","(RM 3,389 / m2)",3,2,130.06 m2,Condo
+"Gombak, Selangor","RM 550,000","(RM 4,725 / m2)",3,3,116.4 m2,Condo
+"Petaling, Selangor","RM 800,000","(RM 3,744 / m2)",4,4,213.67 m2,House
+"Sepang, Selangor","RM 250,000","(RM 5,382 / m2)",2,2,46.45 m2,Condo
+"Petaling, Selangor","RM 430,000","(RM 3,248 / m2)",3,3,132.38 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 5,186 / m2)",3,2,102.19 m2,Condo
+"Gombak, Selangor","RM 429,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Petaling, Selangor","RM 220,000","(RM 4,306 / m2)",2,2,51.09 m2,Condo
+"Gombak, Selangor","RM 440,000","(RM 3,534 / m2)",3,2,124.49 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 680,000","(RM 2,928 / m2)",5,5,232.25 m2,Condo
+"Petaling, Selangor","RM 768,800","(RM 3,849 / m2)",4,3,199.73 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 840,000","(RM 3,931 / m2)",4,4,213.67 m2,House
+"Gombak, Selangor","RM 428,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 830,000","(RM 3,884 / m2)",4,4,213.67 m2,House
+"Petaling, Selangor","RM 429,000",(RM 162 / m2),3,2,"2,650 m2",Condo
+"Petaling, Selangor","RM 800,000","(RM 3,588 / m2)",4,4,222.96 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 239,000","(RM 2,550 / m2)",3,3,93.74 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 429,000","(RM 3,371 / m2)",3,2,127.27 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 500,000","(RM 5,382 / m2)",3,2,92.9 m2,Condo
+"Petaling, Selangor","RM 428,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 530,000","(RM 5,186 / m2)",3,2,102.19 m2,Condo
+"Gombak, Selangor","RM 658,000","(RM 4,221 / m2)",4,3,155.89 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 780,000","(RM 3,650 / m2)",4,4,213.67 m2,House
+"Petaling, Selangor","RM 430,000",(RM 319 / m2),3,2,"1,350 m2",Condo
+"Petaling, Selangor","RM 800,000","(RM 3,588 / m2)",4,3,222.96 m2,House
+"Petaling, Selangor","RM 828,000","(RM 3,714 / m2)",4,4,222.96 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 3,363 / m2)",3,2,127.27 m2,Condo
+"Petaling, Selangor","RM 279,000","(RM 3,754 / m2)",2,2,74.32 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 3,291 / m2)",4,3,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 708,000","(RM 8,023 / m2)",3,2,88.25 m2,Condo
+"Gombak, Selangor","RM 450,000","(RM 3,567 / m2)",3,2,126.16 m2,Condo
+"Petaling, Selangor","RM 460,000","(RM 3,301 / m2)",3,3,139.35 m2,Townhouse
+"Petaling, Selangor","RM 660,000","(RM 2,942 / m2)",5,5,224.35 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 429,000",(RM 306 / m2),3,2,"1,400 m2",Condo
+"Kuala Lumpur, Kuala Lumpur","RM 828,600","(RM 4,988 / m2)",4,4,166.11 m2,House
+"Gombak, Selangor","RM 440,000","(RM 3,534 / m2)",3,2,124.49 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 450,000","(RM 1,977 / m2)",4,4,227.6 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 708,800","(RM 8,222 / m2)",3,2,86.21 m2,Condo
+"Petaling, Selangor","RM 750,000","(RM 3,670 / m2)",4,3,204.38 m2,House
+"Gombak, Selangor","RM 230,000","(RM 2,476 / m2)",3,2,92.9 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 250,000","(RM 5,276 / m2)",1,1,47.38 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 466,000","(RM 5,636 / m2)",3,2,82.68 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 856,900","(RM 4,103 / m2)",4,4,208.84 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 255,000","(RM 5,179 / m2)",1,1,49.24 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 788,888","(RM 9,190 / m2)",3,2,85.84 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 828,000","(RM 3,875 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 531,040","(RM 4,301 / m2)",3,2,123.46 m2,Condo
+"Gombak, Selangor","RM 450,000","(RM 3,615 / m2)",3,2,124.49 m2,Condo
+"Petaling, Selangor","RM 450,000","(RM 3,460 / m2)",3,3,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 720,000","(RM 8,333 / m2)",3,2,86.4 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 300,000","(RM 4,613 / m2)",2,2,65.03 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 820,000","(RM 3,838 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 718,800","(RM 8,338 / m2)",3,2,86.21 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 430,000","(RM 3,306 / m2)",3,2,130.06 m2,Condo
+"Petaling, Selangor","RM 450,000","(RM 3,460 / m2)",3,2,130.06 m2,Condo
+"Sepang, Selangor","RM 250,000","(RM 3,844 / m2)",2,2,65.03 m2,Condo
+"Petaling, Selangor","RM 418,000","(RM 3,214 / m2)",3,3,130.06 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 434,000","(RM 3,410 / m2)",3,2,127.27 m2,Condo
+"Ulu Langat, Selangor","RM 518,000","(RM 2,788 / m2)",4,3,185.8 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 1,150,000","(RM 4,761 / m2)",4,4,241.54 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 718,000","(RM 7,729 / m2)",3,2,92.9 m2,Condo
+"Petaling, Selangor","RM 230,000","(RM 4,283 / m2)",2,2,53.7 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 440,000","(RM 3,534 / m2)",3,2,124.49 m2,Condo
+"Petaling, Selangor","RM 240,000","(RM 4,614 / m2)",2,2,52.02 m2,Condo
+"Putrajaya, Putrajaya","RM 299,000","(RM 2,476 / m2)",4,3,120.77 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 220,000","(RM 7,894 / m2)",1,1,27.87 m2,Condo
+"Gombak, Selangor","RM 826,800","(RM 3,725 / m2)",4,4,221.94 m2,House
+"Petaling, Selangor","RM 848,000","(RM 3,969 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 428,000","(RM 5,119 / m2)",3,2,83.61 m2,Condo
+"Petaling, Selangor","RM 430,000","(RM 3,306 / m2)",3,3,130.06 m2,Condo
+"Petaling, Selangor","RM 450,000",(RM 290 / m2),3,3,"1,550 m2",House
+"Kuala Lumpur, Kuala Lumpur","RM 680,000","(RM 2,928 / m2)",5,5,232.25 m2,Condo
+"Petaling, Selangor","RM 780,000","(RM 8,396 / m2)",3,2,92.9 m2,Condo
+"Putrajaya, Putrajaya","RM 260,000","(RM 3,998 / m2)",2,2,65.03 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 250,000","(RM 3,844 / m2)",2,2,65.03 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 800,000","(RM 4,403 / m2)",4,3,181.71 m2,House
+"Gombak, Selangor","RM 445,800","(RM 3,581 / m2)",3,2,124.49 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 300,000","(RM 4,613 / m2)",2,2,65.03 m2,Condo
+"Petaling, Selangor","RM 443,000","(RM 3,406 / m2)",3,2,130.06 m2,Condo
+"Petaling, Selangor","RM 400,000","(RM 5,741 / m2)",3,2,69.67 m2,Condo
+"Gombak, Selangor","RM 498,000","(RM 4,278 / m2)",3,3,116.4 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 428,800","(RM 5,317 / m2)",3,2,80.64 m2,Condo
+"Kuala Selangor, Selangor","RM 445,800","(RM 3,581 / m2)",3,2,124.49 m2,Condo
+"Petaling, Selangor","RM 820,000","(RM 3,838 / m2)",4,4,213.67 m2,House
+"Kuala Lumpur, Kuala Lumpur","RM 300,000","(RM 4,613 / m2)",2,2,65.03 m2,Condo
+"Kuala Lumpur, Kuala Lumpur","RM 445,000","(RM 3,575 / m2)",3,2,124.49 m2,Condo
+"Petaling, Selangor","RM 430,000","(RM 3,306 / m2)",3,2,130.06 m2,Condo
+"Ulu Langat, Selangor","RM 489,000","(RM 3,509 / m2)",3,3,139.35 m2,Condo
+"Gombak, Selangor","RM 445,000","(RM 3,527 / m2)",3,2,126.16 m2,Condo
