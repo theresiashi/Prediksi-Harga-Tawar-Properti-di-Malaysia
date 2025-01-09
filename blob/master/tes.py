@@ -93,4 +93,4 @@ estimated_price = user_input_with_intercept @ theta
 
 # Display result
 st.subheader("Estimasi Harga")
-st.write(f"Harga properti yang diperkirakan adalah RM {estimated_price[0]:,.2f}")
+st.write(f"Harga properti yang diperkirakan adalah Rp. {estimated_price[0]:,.2f}")
